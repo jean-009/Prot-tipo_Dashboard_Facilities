@@ -1,0 +1,45 @@
+version: '3.8'
+services:
+  # 1. Banco de Dados PostgreSQL 
+  postgres:
+    image: postgres:15-alpine
+    container_name: postgres_db_facilities
+    restart: always
+    environment:
+      POSTGRES_USER: metabase_user
+      POSTGRES_PASSWORD: mysecretpassword
+      POSTGRES_DB: facilities_db
+    volumes:
+      - ./postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+  # 2. Metabase 
+  metabase: # O nome do serviço é 'metabase', o container é 'metabase_app'
+    image: metabase/metabase
+    container_name: metabase_app
+    restart: always
+    depends_on:
+      - postgres
+    environment:
+      MB_DB_TYPE: postgres
+      MB_DB_DBNAME: facilities_db
+      MB_DB_PORT: 5432
+      MB_DB_USER: metabase_user
+      MB_DB_PASS: mysecretpassword
+      MB_DB_HOST: postgres
+    ports:
+      - "3000:3000"
+
+  # 3. pgAdmin 
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: pgadmin_ui
+    restart: always
+    depends_on:
+      - postgres
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@facilities.com
+      PGADMIN_DEFAULT_PASSWORD: adminpassword
+    ports:
+      - "8080:80"

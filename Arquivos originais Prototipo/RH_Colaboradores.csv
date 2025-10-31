@@ -1,0 +1,1001 @@
+ID_Colaborador,Nome_Completo,Cargo,Setor_Alocado,Salario_Base,Status_Contratual,Data_Admissao
+1,Goldie Welbeck,Vigilante,Segurança,$2262.79,Ativo,2023-05-13
+2,Gannon Gollop,Controlador de Acesso,Segurança,$1259.94,Licença Maternidade,2024-06-02
+3,Charita Heinssen,Controlador de Acesso,Limpeza,$2131.42,Férias,2025-04-23
+4,Lorrie Dalmon,Supervisor Operacional,Administrativo.,$1886.77,Desligado.,2021-09-25
+5,Marybelle Cavalier,Vigilante,Administrativo.,$1710.26,Férias,2022-08-14
+6,Fritz Cleall,Controlador de Acesso,Administrativo.,$1865.23,Ativo,2023-05-18
+7,Evered Mapston,Jardineiro,Administrativo.,$1817.92,Ativo,2024-06-26
+8,Guillemette Menchenton,Vigilante,Administrativo.,$1324.76,Licença Maternidade,2022-08-26
+9,Else Klink,Controlador de Acesso,Administrativo.,$1843.99,Licença Maternidade,2021-07-14
+10,Aubrey McEllen,Controlador de Acesso,Administrativo.,$2056.12,Licença Maternidade,2024-12-30
+11,Rodolph Thurstan,Controlador de Acesso,Limpeza,$1060.12,Ativo,2022-06-21
+12,Rhody Detheridge,Supervisor Operacional,Segurança,$1629.79,Férias,2023-02-06
+13,Erma Sebright,Supervisor Operacional,Limpeza,$1744.54,Ativo,2021-09-04
+14,Stanislaw Diment,Supervisor Operacional,Administrativo.,$1145.45,Desligado.,2020-11-14
+15,Boonie Olivey,Controlador de Acesso,Limpeza,$2288.94,Desligado.,2024-02-26
+16,Anabelle Olijve,Supervisor Operacional,Segurança,$1748.83,Desligado.,2025-01-18
+17,Elihu Gibbs,Auxiliar de Serviços Gerais,Segurança,$1282.52,Desligado.,2024-02-09
+18,Doralia Cross,Jardineiro,Limpeza,$2268.59,Férias,2025-02-16
+19,Simon Towersey,Supervisor Operacional,Administrativo.,$1088.38,Férias,2024-01-06
+20,Shanie Drakers,Vigilante,Administrativo.,$1853.65,Desligado.,2022-04-04
+21,Corny Berrycloth,Controlador de Acesso,Administrativo.,$2008.16,Desligado.,2020-11-01
+22,Uriel Garz,Jardineiro,Limpeza,$1347.50,Férias,2023-12-15
+23,Natividad Philpot,Vigilante,Administrativo.,$1034.86,Licença Maternidade,2025-05-06
+24,Nettle Narramore,Supervisor Operacional,Administrativo.,$1974.80,Férias,2021-09-21
+25,Kira McGonagle,Controlador de Acesso,Segurança,$1739.33,Licença Maternidade,2021-02-03
+26,Ernestine Chattell,Supervisor Operacional,Limpeza,$1852.58,Ativo,2022-03-03
+27,Lenna Felder,Supervisor Operacional,Limpeza,$2305.50,Desligado.,2022-01-05
+28,Lou Kleinhaus,Controlador de Acesso,Limpeza,$1131.06,Licença Maternidade,2021-09-28
+29,Janey Billingham,Vigilante,Limpeza,$1039.05,Ativo,2025-07-03
+30,Kellen Maddin,Supervisor Operacional,Segurança,$2114.18,Ativo,2021-06-04
+31,Kylila Rodger,Vigilante,Limpeza,$1107.14,Férias,2025-09-17
+32,Terrel Priver,Supervisor Operacional,Segurança,$1008.75,Desligado.,2021-05-29
+33,Lola Duiged,Jardineiro,Limpeza,$1691.91,Desligado.,2025-01-09
+34,Melisande Siney,Vigilante,Administrativo.,$1926.68,Licença Maternidade,2025-08-25
+35,Mauricio Yorston,Jardineiro,Segurança,$2359.02,Desligado.,2023-10-13
+36,Mel Ainge,Auxiliar de Serviços Gerais,Limpeza,$2361.00,Licença Maternidade,2021-01-22
+37,Mia Schneidar,Jardineiro,Segurança,$1105.63,Ativo,2023-09-22
+38,Nerty Scotchbourouge,Auxiliar de Serviços Gerais,Limpeza,$1940.65,Ativo,2024-10-09
+39,Kimbra Veazey,Vigilante,Segurança,$1201.46,Férias,2024-02-07
+40,Jake Antonsson,Auxiliar de Serviços Gerais,Limpeza,$1591.24,Férias,2024-05-30
+41,Gelya Beasleigh,Supervisor Operacional,Segurança,$1142.45,Licença Maternidade,2022-12-04
+42,Marleen Sandell,Jardineiro,Limpeza,$2356.14,Ativo,2022-08-06
+43,Sherwood Geipel,Vigilante,Limpeza,$1409.69,Ativo,2022-10-11
+44,Barnabe Lowing,Jardineiro,Segurança,$2287.22,Férias,2022-11-21
+45,Timothee Caville,Supervisor Operacional,Administrativo.,$1342.62,Férias,2025-10-02
+46,Waverley Oller,Supervisor Operacional,Limpeza,$1485.69,Licença Maternidade,2021-04-03
+47,Merilyn Poyner,Controlador de Acesso,Segurança,$2289.25,Férias,2023-05-07
+48,Valida Titchen,Supervisor Operacional,Limpeza,$1464.69,Desligado.,2021-02-25
+49,Julissa Lengthorn,Vigilante,Administrativo.,$1057.92,Férias,2024-03-27
+50,Lenci Gentreau,Jardineiro,Administrativo.,$1994.75,Desligado.,2025-09-01
+51,Roxine Hardaker,Vigilante,Administrativo.,$2260.67,Licença Maternidade,2021-03-08
+52,Dede Henningham,Controlador de Acesso,Segurança,$2087.66,Licença Maternidade,2024-01-05
+53,Brenda Acott,Vigilante,Segurança,$2195.34,Ativo,2021-06-09
+54,Adolphus Shorto,Vigilante,Limpeza,$2130.30,Ativo,2024-09-01
+55,Nichole Caws,Controlador de Acesso,Segurança,$1126.29,Desligado.,2023-08-09
+56,Babette Granham,Auxiliar de Serviços Gerais,Limpeza,$2010.56,Licença Maternidade,2024-03-29
+57,Steffie Gonsalo,Vigilante,Administrativo.,$1082.30,Desligado.,2024-12-28
+58,Godfrey Genny,Supervisor Operacional,Limpeza,$2062.30,Ativo,2021-10-17
+59,Bryce Tennock,Jardineiro,Segurança,$1891.91,Desligado.,2025-06-29
+60,Candice Cannon,Controlador de Acesso,Administrativo.,$1616.97,Férias,2024-02-26
+61,Leon McKenzie,Controlador de Acesso,Administrativo.,$1925.57,Licença Maternidade,2022-12-26
+62,Erhard Ingles,Supervisor Operacional,Segurança,$1436.54,Ativo,2023-05-14
+63,Saloma Aloshechkin,Jardineiro,Segurança,$1916.61,Licença Maternidade,2021-12-01
+64,Pamelina Ambrogelli,Supervisor Operacional,Administrativo.,$2200.74,Férias,2021-09-06
+65,Jennie Barczynski,Jardineiro,Administrativo.,$2235.19,Desligado.,2022-03-12
+66,Jard Sterling,Controlador de Acesso,Segurança,$1100.94,Licença Maternidade,2022-07-23
+67,Gunner Neylon,Supervisor Operacional,Limpeza,$2447.71,Férias,2024-10-03
+68,Jodi Norton,Auxiliar de Serviços Gerais,Segurança,$2236.45,Férias,2022-03-23
+69,Clarette Tremberth,Vigilante,Limpeza,$1968.13,Ativo,2023-01-01
+70,Jackie Scollard,Controlador de Acesso,Administrativo.,$1471.71,Licença Maternidade,2024-12-11
+71,Dianne Mazey,Controlador de Acesso,Limpeza,$2357.22,Ativo,2023-11-28
+72,Dorian Saladin,Controlador de Acesso,Segurança,$1520.37,Licença Maternidade,2025-04-19
+73,April Hazle,Supervisor Operacional,Administrativo.,$2347.14,Férias,2023-06-09
+74,Bianka Muglestone,Controlador de Acesso,Administrativo.,$1201.59,Ativo,2020-12-04
+75,Lonnie Shilton,Supervisor Operacional,Limpeza,$2318.40,Férias,2022-06-17
+76,Amandi Churcher,Jardineiro,Limpeza,$1388.83,Ativo,2022-03-19
+77,Sofie Windross,Controlador de Acesso,Limpeza,$1028.22,Desligado.,2022-03-09
+78,Michaela Keightley,Supervisor Operacional,Limpeza,$2350.56,Férias,2022-11-14
+79,Deloria Spurdens,Supervisor Operacional,Administrativo.,$2273.40,Licença Maternidade,2024-09-10
+80,Micheline Curtayne,Supervisor Operacional,Segurança,$1933.43,Licença Maternidade,2022-05-22
+81,Gloria Spatari,Vigilante,Administrativo.,$2135.37,Desligado.,2025-02-27
+82,Rhodie Coye,Jardineiro,Administrativo.,$1688.55,Licença Maternidade,2021-07-04
+83,Carry Dymoke,Supervisor Operacional,Administrativo.,$2490.89,Férias,2022-03-10
+84,Pierson Bamsey,Jardineiro,Segurança,$1782.42,Desligado.,2022-12-08
+85,Tyler Alessandrini,Vigilante,Segurança,$1807.84,Desligado.,2021-11-27
+86,Kenna Baynton,Jardineiro,Administrativo.,$1400.15,Desligado.,2025-10-07
+87,Morten Rainbow,Auxiliar de Serviços Gerais,Limpeza,$2339.87,Ativo,2024-12-29
+88,Scot Blaasch,Controlador de Acesso,Administrativo.,$2082.52,Desligado.,2021-10-06
+89,Marne Clunan,Controlador de Acesso,Limpeza,$2231.29,Desligado.,2021-07-10
+90,Germaine Ditchett,Vigilante,Administrativo.,$1303.82,Licença Maternidade,2021-04-21
+91,Gifford Elms,Auxiliar de Serviços Gerais,Administrativo.,$1554.36,Desligado.,2024-11-03
+92,Josey Davidai,Auxiliar de Serviços Gerais,Administrativo.,$1450.31,Desligado.,2022-04-24
+93,Joycelin Nye,Vigilante,Administrativo.,$1753.62,Ativo,2025-05-31
+94,Winna Donohoe,Vigilante,Administrativo.,$2257.70,Licença Maternidade,2022-05-09
+95,Clemente Sweetman,Controlador de Acesso,Segurança,$1045.54,Licença Maternidade,2021-08-11
+96,Abel Krysztofiak,Auxiliar de Serviços Gerais,Segurança,$2489.52,Férias,2022-08-17
+97,Heidi Alred,Supervisor Operacional,Segurança,$1258.79,Licença Maternidade,2021-12-10
+98,Alena Eyers,Vigilante,Segurança,$1610.20,Ativo,2021-12-25
+99,Ysabel Gresly,Vigilante,Segurança,$1246.62,Desligado.,2023-10-20
+100,Cyrillus Vile,Supervisor Operacional,Administrativo.,$1099.39,Desligado.,2025-01-09
+101,Winona Garry,Vigilante,Segurança,$2458.25,Ativo,2022-07-11
+102,Gwendolen Broughton,Controlador de Acesso,Administrativo.,$1621.52,Ativo,2024-12-29
+103,Dania Sibun,Vigilante,Limpeza,$1444.37,Licença Maternidade,2023-01-26
+104,Milena Ivanenkov,Auxiliar de Serviços Gerais,Administrativo.,$2329.78,Férias,2021-03-26
+105,Charis Kimmitt,Controlador de Acesso,Administrativo.,$1942.18,Ativo,2023-04-12
+106,Nero Jaimez,Supervisor Operacional,Limpeza,$2109.04,Licença Maternidade,2025-03-21
+107,Colan Talloe,Supervisor Operacional,Limpeza,$2115.24,Férias,2021-03-05
+108,Sol Probetts,Vigilante,Administrativo.,$1843.41,Licença Maternidade,2021-03-21
+109,Aldridge Latty,Supervisor Operacional,Segurança,$2137.44,Desligado.,2025-01-18
+110,Jeniece D'Onisi,Controlador de Acesso,Segurança,$1572.65,Férias,2025-09-30
+111,Piotr Barnson,Jardineiro,Administrativo.,$1981.24,Desligado.,2023-09-20
+112,Hort Fripp,Jardineiro,Administrativo.,$1362.07,Desligado.,2021-01-23
+113,Alberta Stuer,Auxiliar de Serviços Gerais,Segurança,$1823.36,Desligado.,2021-10-21
+114,Temple Calan,Auxiliar de Serviços Gerais,Limpeza,$2379.71,Ativo,2022-02-12
+115,Teresa Garrattley,Vigilante,Segurança,$1570.10,Férias,2023-03-04
+116,Aubine Vance,Jardineiro,Administrativo.,$1420.13,Ativo,2021-01-10
+117,Chaim Coveney,Auxiliar de Serviços Gerais,Segurança,$1114.52,Desligado.,2020-12-24
+118,Valida Tong,Controlador de Acesso,Segurança,$1458.25,Ativo,2022-09-06
+119,Gerry Leavesley,Vigilante,Segurança,$1098.01,Férias,2023-01-30
+120,Donny Pennino,Vigilante,Segurança,$1837.81,Férias,2023-09-02
+121,Fee de Voiels,Supervisor Operacional,Limpeza,$1732.53,Desligado.,2024-03-15
+122,Tomasina Tireman,Supervisor Operacional,Limpeza,$1545.98,Desligado.,2022-02-23
+123,Elsworth Royste,Jardineiro,Segurança,$1523.57,Férias,2020-12-18
+124,Asia Elliss,Controlador de Acesso,Limpeza,$1351.12,Férias,2025-09-09
+125,Dall McCrostie,Vigilante,Segurança,$1462.69,Licença Maternidade,2024-05-27
+126,Patton Bointon,Vigilante,Limpeza,$1847.91,Licença Maternidade,2024-05-27
+127,Jenda Dorrity,Jardineiro,Limpeza,$2355.40,Férias,2021-02-15
+128,Guillermo Germain,Jardineiro,Segurança,$1534.65,Desligado.,2024-07-20
+129,Giuseppe Sellick,Auxiliar de Serviços Gerais,Segurança,$1297.99,Ativo,2024-02-13
+130,Modesta Goslin,Jardineiro,Limpeza,$2365.27,Ativo,2021-10-10
+131,Jesse Shewry,Jardineiro,Administrativo.,$2138.57,Férias,2022-07-27
+132,Hamish Verna,Auxiliar de Serviços Gerais,Administrativo.,$1095.81,Desligado.,2021-10-13
+133,Cathrine Dwire,Auxiliar de Serviços Gerais,Administrativo.,$2128.91,Ativo,2021-01-26
+134,Xymenes Castiglione,Controlador de Acesso,Administrativo.,$2167.70,Ativo,2025-05-15
+135,Marshall Bernardez,Vigilante,Limpeza,$1338.04,Desligado.,2022-06-28
+136,Glyn Ravenhill,Controlador de Acesso,Segurança,$2483.33,Férias,2022-04-30
+137,Gloriane Leathem,Supervisor Operacional,Administrativo.,$2304.78,Licença Maternidade,2022-10-05
+138,Renado Riolfo,Vigilante,Limpeza,$1546.60,Desligado.,2023-12-23
+139,Zollie Climer,Jardineiro,Administrativo.,$1275.28,Desligado.,2024-04-12
+140,Clark Cheverell,Supervisor Operacional,Administrativo.,$2308.41,Ativo,2023-11-18
+141,Thaddus Haddy,Controlador de Acesso,Limpeza,$1702.40,Ativo,2024-11-15
+142,Kaitlynn Jaycock,Vigilante,Limpeza,$1807.67,Desligado.,2025-08-16
+143,Dawna Dugall,Controlador de Acesso,Limpeza,$1344.58,Ativo,2024-05-05
+144,Bartlet Bonick,Auxiliar de Serviços Gerais,Limpeza,$1087.84,Desligado.,2025-03-13
+145,Ardene Kemston,Controlador de Acesso,Administrativo.,$2373.63,Férias,2022-12-21
+146,Esra Jandourek,Auxiliar de Serviços Gerais,Limpeza,$1323.29,Férias,2025-07-08
+147,Monah Haswall,Supervisor Operacional,Administrativo.,$1451.76,Desligado.,2021-05-07
+148,Katherina Pocklington,Vigilante,Administrativo.,$1556.98,Licença Maternidade,2023-02-21
+149,Mayer Cohrs,Controlador de Acesso,Segurança,$1013.62,Férias,2025-05-09
+150,Juana Flea,Jardineiro,Segurança,$1406.57,Desligado.,2023-03-31
+151,Nada Ernshaw,Vigilante,Administrativo.,$1631.46,Desligado.,2022-12-19
+152,Myriam Remmers,Controlador de Acesso,Limpeza,$1912.84,Licença Maternidade,2023-03-12
+153,Jule Huxham,Auxiliar de Serviços Gerais,Limpeza,$1980.39,Licença Maternidade,2024-12-05
+154,Phyllys Exell,Supervisor Operacional,Administrativo.,$1128.62,Licença Maternidade,2022-08-22
+155,Davidson Minichillo,Auxiliar de Serviços Gerais,Limpeza,$1473.99,Licença Maternidade,2025-10-25
+156,Vlad Carthew,Controlador de Acesso,Administrativo.,$1050.51,Férias,2023-03-04
+157,Latisha Lambourn,Auxiliar de Serviços Gerais,Segurança,$2424.45,Desligado.,2022-12-23
+158,Corliss Bontoft,Auxiliar de Serviços Gerais,Segurança,$1884.15,Ativo,2022-05-08
+159,Man Ure,Auxiliar de Serviços Gerais,Limpeza,$2299.28,Desligado.,2025-02-16
+160,Paige Gilchriest,Jardineiro,Limpeza,$1931.93,Férias,2021-10-07
+161,Edik Messer,Jardineiro,Segurança,$2417.11,Férias,2024-04-11
+162,Jesse Richly,Vigilante,Administrativo.,$1321.14,Licença Maternidade,2020-12-10
+163,Duane Fisk,Vigilante,Limpeza,$2400.39,Ativo,2025-04-10
+164,Marge Pruce,Supervisor Operacional,Administrativo.,$1982.49,Férias,2022-11-26
+165,Rodger Purveys,Controlador de Acesso,Segurança,$1131.86,Desligado.,2023-11-19
+166,Lyle Hinze,Supervisor Operacional,Limpeza,$2145.56,Licença Maternidade,2020-11-22
+167,Daron Kinnoch,Supervisor Operacional,Administrativo.,$1776.63,Férias,2022-10-10
+168,Marwin Parram,Supervisor Operacional,Limpeza,$1494.83,Licença Maternidade,2020-12-18
+169,Nara Hallihane,Supervisor Operacional,Limpeza,$1355.43,Ativo,2025-05-05
+170,Yulma Cestard,Auxiliar de Serviços Gerais,Administrativo.,$1765.31,Licença Maternidade,2025-03-12
+171,Sim Betser,Vigilante,Segurança,$1733.83,Férias,2025-04-27
+172,Georgena Caroll,Vigilante,Administrativo.,$2394.83,Férias,2025-09-02
+173,Jeremie Howgate,Auxiliar de Serviços Gerais,Segurança,$1469.43,Ativo,2023-05-17
+174,Marcy Bysaker,Controlador de Acesso,Limpeza,$1074.37,Férias,2023-10-09
+175,Rhona Kenforth,Jardineiro,Limpeza,$1105.23,Férias,2025-07-17
+176,Abbe Collough,Vigilante,Limpeza,$1801.37,Licença Maternidade,2023-01-03
+177,Garner Lain,Auxiliar de Serviços Gerais,Administrativo.,$1954.17,Férias,2023-12-01
+178,Chrysa Burgise,Jardineiro,Limpeza,$1342.68,Ativo,2025-09-29
+179,Bastian Gillfillan,Controlador de Acesso,Limpeza,$1606.85,Desligado.,2020-12-02
+180,Hendrik Carrane,Auxiliar de Serviços Gerais,Limpeza,$2491.17,Desligado.,2021-02-03
+181,Northrup Smallpiece,Jardineiro,Administrativo.,$2132.76,Desligado.,2021-12-14
+182,Cris Liddon,Controlador de Acesso,Administrativo.,$2263.68,Desligado.,2020-11-21
+183,Craig Plessing,Vigilante,Administrativo.,$1754.73,Desligado.,2022-03-26
+184,Steffane Sharvell,Supervisor Operacional,Segurança,$2046.55,Férias,2024-09-22
+185,Mariquilla Gremane,Jardineiro,Limpeza,$2066.00,Desligado.,2022-09-28
+186,Keith Rowsel,Vigilante,Limpeza,$1174.78,Licença Maternidade,2021-05-25
+187,Win Haack,Vigilante,Administrativo.,$2307.11,Licença Maternidade,2023-09-23
+188,Gabriela Ballister,Controlador de Acesso,Limpeza,$1608.16,Licença Maternidade,2021-08-21
+189,Danyette Nanninini,Jardineiro,Administrativo.,$2010.95,Desligado.,2024-03-04
+190,Gelya Whalebelly,Vigilante,Segurança,$1910.48,Desligado.,2024-04-22
+191,Buffy Blewmen,Supervisor Operacional,Limpeza,$1906.23,Férias,2024-02-26
+192,Hanson Banger,Controlador de Acesso,Segurança,$2015.58,Ativo,2025-01-24
+193,Taryn Langshaw,Supervisor Operacional,Segurança,$1162.14,Licença Maternidade,2024-04-03
+194,Derrik Fenge,Vigilante,Administrativo.,$2004.14,Desligado.,2025-09-23
+195,Gauthier Nerval,Supervisor Operacional,Administrativo.,$1125.01,Licença Maternidade,2025-05-28
+196,Jory Rossbrook,Auxiliar de Serviços Gerais,Administrativo.,$1662.79,Férias,2021-11-03
+197,Peterus Trustrie,Supervisor Operacional,Administrativo.,$1453.51,Licença Maternidade,2021-08-22
+198,Gradey Muckeen,Controlador de Acesso,Segurança,$1983.75,Licença Maternidade,2021-01-28
+199,Brigitte Gaule,Vigilante,Limpeza,$2051.24,Licença Maternidade,2025-06-06
+200,Alick Catterall,Auxiliar de Serviços Gerais,Administrativo.,$2268.35,Desligado.,2021-03-10
+201,Thalia Meardon,Controlador de Acesso,Segurança,$1801.37,Licença Maternidade,2024-03-21
+202,Harley Liptrod,Supervisor Operacional,Segurança,$1316.22,Desligado.,2025-03-14
+203,Sylas Rylands,Controlador de Acesso,Administrativo.,$2413.79,Licença Maternidade,2024-01-09
+204,Laurette Lewington,Vigilante,Segurança,$1851.02,Desligado.,2025-01-01
+205,Pepita Iggalden,Vigilante,Limpeza,$2127.97,Férias,2024-09-05
+206,Delmer Warrender,Controlador de Acesso,Administrativo.,$1212.75,Licença Maternidade,2024-03-12
+207,Gusti Mulvey,Jardineiro,Administrativo.,$1787.06,Férias,2022-02-22
+208,Roddy Labbey,Supervisor Operacional,Segurança,$1029.62,Férias,2023-04-11
+209,Elsworth Tevlin,Supervisor Operacional,Segurança,$1256.29,Ativo,2020-11-27
+210,Darbee Godwin,Vigilante,Administrativo.,$2267.93,Ativo,2024-07-14
+211,Kass Blemings,Supervisor Operacional,Limpeza,$2208.02,Licença Maternidade,2022-01-23
+212,Nisse Pape,Supervisor Operacional,Segurança,$2243.04,Ativo,2024-06-02
+213,Lilas Sheering,Supervisor Operacional,Limpeza,$2212.34,Licença Maternidade,2022-12-03
+214,Allison Kenshole,Controlador de Acesso,Administrativo.,$1304.20,Desligado.,2024-03-23
+215,Vincents Elwood,Auxiliar de Serviços Gerais,Segurança,$1053.32,Ativo,2024-08-02
+216,Alfi Merrywether,Vigilante,Administrativo.,$2248.29,Licença Maternidade,2022-08-29
+217,Vanna Freak,Vigilante,Segurança,$2406.47,Férias,2022-02-16
+218,Jaime Stanlock,Controlador de Acesso,Segurança,$1682.95,Desligado.,2023-04-30
+219,Danell Hardiman,Supervisor Operacional,Administrativo.,$1761.22,Férias,2025-03-27
+220,Michel Dehm,Auxiliar de Serviços Gerais,Limpeza,$1838.29,Ativo,2025-03-21
+221,Lida Rees,Controlador de Acesso,Segurança,$1283.10,Desligado.,2023-12-07
+222,Lisle Pietersma,Controlador de Acesso,Segurança,$1193.47,Férias,2023-06-07
+223,Davita Kilbourn,Jardineiro,Administrativo.,$2262.70,Desligado.,2020-11-09
+224,Annabell Galfour,Auxiliar de Serviços Gerais,Segurança,$2335.79,Ativo,2022-06-14
+225,Lizabeth Dreus,Supervisor Operacional,Administrativo.,$2294.54,Desligado.,2021-06-02
+226,Sloane Collibear,Supervisor Operacional,Administrativo.,$2132.73,Ativo,2021-11-11
+227,Tedd Minghetti,Supervisor Operacional,Limpeza,$1312.77,Férias,2022-02-26
+228,Noach Gisburne,Jardineiro,Limpeza,$1525.48,Desligado.,2021-03-04
+229,Demetris Boundley,Supervisor Operacional,Limpeza,$1395.82,Licença Maternidade,2021-05-02
+230,Roselle Chippindall,Controlador de Acesso,Segurança,$1506.59,Ativo,2022-05-28
+231,Manda Dobbings,Auxiliar de Serviços Gerais,Administrativo.,$2290.44,Desligado.,2025-04-27
+232,Tobe Koles,Supervisor Operacional,Segurança,$1194.55,Férias,2024-05-29
+233,Vinny Mulgrew,Vigilante,Segurança,$1596.78,Licença Maternidade,2023-10-20
+234,Malissia Salvadore,Controlador de Acesso,Segurança,$1712.53,Ativo,2025-02-18
+235,Luigi Marty,Vigilante,Administrativo.,$2259.97,Desligado.,2023-09-18
+236,Perle MacSwayde,Jardineiro,Segurança,$1269.88,Ativo,2024-01-13
+237,Franciskus Shucksmith,Vigilante,Administrativo.,$1918.40,Licença Maternidade,2023-06-17
+238,Franky Fryd,Auxiliar de Serviços Gerais,Administrativo.,$1898.05,Ativo,2024-10-15
+239,Irwinn Janssens,Auxiliar de Serviços Gerais,Limpeza,$1942.02,Licença Maternidade,2022-02-13
+240,Hetty Lawles,Supervisor Operacional,Limpeza,$1505.01,Licença Maternidade,2023-05-10
+241,Charlton Gales,Supervisor Operacional,Administrativo.,$1654.20,Ativo,2025-05-03
+242,Jacki Brearty,Controlador de Acesso,Segurança,$1874.67,Licença Maternidade,2024-12-18
+243,Philly Levin,Jardineiro,Segurança,$1956.10,Ativo,2025-08-10
+244,Ferrel Beverage,Supervisor Operacional,Segurança,$2291.32,Ativo,2025-07-23
+245,Tildi Woolaston,Jardineiro,Limpeza,$1258.49,Licença Maternidade,2022-09-22
+246,Fanni Gorick,Jardineiro,Limpeza,$1261.69,Férias,2024-02-22
+247,Ahmed Didball,Controlador de Acesso,Segurança,$1401.96,Desligado.,2022-08-18
+248,Eliot Holligan,Auxiliar de Serviços Gerais,Administrativo.,$1868.64,Desligado.,2025-02-07
+249,Steven Marchbank,Supervisor Operacional,Segurança,$2475.64,Licença Maternidade,2021-10-04
+250,Leland Kochl,Jardineiro,Administrativo.,$2169.31,Licença Maternidade,2024-05-04
+251,Rubin Clyde,Controlador de Acesso,Limpeza,$1574.29,Desligado.,2022-04-23
+252,Cari Harwood,Jardineiro,Limpeza,$2155.46,Desligado.,2024-08-30
+253,Giacobo Aucoate,Jardineiro,Administrativo.,$1416.79,Ativo,2023-12-19
+254,Esteban Coucha,Supervisor Operacional,Limpeza,$1819.46,Licença Maternidade,2020-12-04
+255,Kirstyn Wakeham,Jardineiro,Segurança,$1306.81,Férias,2024-01-18
+256,Teddi Murty,Controlador de Acesso,Limpeza,$2204.57,Férias,2024-06-20
+257,Pattie Davidof,Supervisor Operacional,Administrativo.,$1640.21,Ativo,2023-10-12
+258,Gerard Dowtry,Vigilante,Segurança,$1810.56,Ativo,2021-04-26
+259,Roy Riley,Supervisor Operacional,Administrativo.,$2288.61,Férias,2025-09-07
+260,Georgena Josefsson,Vigilante,Administrativo.,$1530.52,Férias,2025-03-02
+261,Merola Brydone,Auxiliar de Serviços Gerais,Segurança,$2095.77,Desligado.,2024-04-06
+262,Shanan Soule,Supervisor Operacional,Limpeza,$1269.73,Ativo,2025-05-08
+263,Emanuel Aberdeen,Auxiliar de Serviços Gerais,Limpeza,$1129.88,Desligado.,2021-06-12
+264,Mei Frogley,Jardineiro,Limpeza,$1962.59,Férias,2021-03-07
+265,Lennard Stanbra,Vigilante,Segurança,$1562.49,Desligado.,2024-11-30
+266,Celestyn Thorneloe,Controlador de Acesso,Segurança,$2411.40,Férias,2025-04-22
+267,Gustavus Filipyev,Auxiliar de Serviços Gerais,Segurança,$1581.80,Licença Maternidade,2025-09-09
+268,Angy Hummerston,Controlador de Acesso,Administrativo.,$1078.25,Férias,2022-03-28
+269,Johnette Learoyde,Supervisor Operacional,Administrativo.,$2349.02,Licença Maternidade,2024-10-29
+270,Dyan Camocke,Jardineiro,Administrativo.,$1891.30,Ativo,2025-05-26
+271,Royal Vaud,Vigilante,Limpeza,$2188.38,Ativo,2022-12-15
+272,Thorstein O'Farris,Supervisor Operacional,Limpeza,$1205.69,Desligado.,2023-01-13
+273,Frederic Prettyman,Auxiliar de Serviços Gerais,Administrativo.,$1726.83,Desligado.,2022-03-13
+274,Teodor Toone,Jardineiro,Limpeza,$1582.24,Licença Maternidade,2023-03-29
+275,Eleanore Bownas,Jardineiro,Limpeza,$2471.09,Ativo,2023-09-15
+276,Farlay Pellatt,Controlador de Acesso,Administrativo.,$1663.75,Ativo,2022-12-21
+277,Freeland Boxill,Vigilante,Administrativo.,$1510.24,Licença Maternidade,2023-03-03
+278,Monica Branton,Vigilante,Limpeza,$2056.69,Ativo,2023-05-02
+279,Ameline Tinker,Controlador de Acesso,Limpeza,$1459.99,Férias,2021-10-27
+280,Rhianon Banasiak,Jardineiro,Segurança,$2138.54,Desligado.,2022-07-13
+281,Bordie Bladder,Controlador de Acesso,Segurança,$1914.75,Férias,2024-12-01
+282,Micky Claypool,Controlador de Acesso,Administrativo.,$2429.61,Desligado.,2023-05-15
+283,Terrye A'Barrow,Jardineiro,Segurança,$2144.60,Férias,2021-04-29
+284,Gilbert Cufley,Controlador de Acesso,Limpeza,$2266.36,Ativo,2022-11-14
+285,Mylo Nazer,Jardineiro,Administrativo.,$1332.85,Férias,2021-11-20
+286,Cherye Linstead,Vigilante,Segurança,$1436.51,Férias,2021-07-14
+287,Robinet Fitt,Supervisor Operacional,Administrativo.,$2010.13,Ativo,2021-11-15
+288,Kelvin Gabbot,Supervisor Operacional,Segurança,$1806.34,Licença Maternidade,2020-11-11
+289,Smith Sydall,Vigilante,Limpeza,$1600.66,Ativo,2023-02-19
+290,Addi Ashfield,Vigilante,Administrativo.,$1982.26,Desligado.,2024-01-23
+291,Esme Beazey,Vigilante,Segurança,$1726.89,Férias,2021-11-26
+292,Herve Baggallay,Jardineiro,Administrativo.,$1104.15,Férias,2025-04-03
+293,Josi Hebborn,Vigilante,Limpeza,$1414.66,Ativo,2022-08-15
+294,Benoit Woodroof,Controlador de Acesso,Limpeza,$2202.92,Ativo,2022-05-15
+295,Marysa Casiroli,Controlador de Acesso,Limpeza,$1586.54,Licença Maternidade,2022-10-16
+296,Iain Batchellor,Supervisor Operacional,Limpeza,$2102.16,Ativo,2022-11-20
+297,Crissie Morat,Jardineiro,Administrativo.,$1008.91,Ativo,2024-10-28
+298,Nial Flint,Jardineiro,Administrativo.,$2206.25,Férias,2021-06-09
+299,Maria Gligorijevic,Vigilante,Segurança,$2366.96,Ativo,2024-04-15
+300,Lila Treffry,Vigilante,Limpeza,$2134.00,Ativo,2024-09-16
+301,Prentiss Dalrymple,Supervisor Operacional,Administrativo.,$1947.18,Desligado.,2025-07-24
+302,Giffie Licquorish,Jardineiro,Limpeza,$1126.67,Férias,2022-10-23
+303,Ronna Sawyers,Vigilante,Segurança,$2480.50,Desligado.,2023-09-20
+304,Jacquette Tonnesen,Jardineiro,Limpeza,$1900.51,Ativo,2022-03-17
+305,Birgitta Springtorpe,Supervisor Operacional,Segurança,$2421.44,Férias,2021-11-20
+306,Maighdiln Surgeon,Controlador de Acesso,Administrativo.,$1805.31,Licença Maternidade,2025-07-26
+307,Ginevra Verchambre,Auxiliar de Serviços Gerais,Limpeza,$1332.82,Férias,2022-03-09
+308,Nonnah Jukubczak,Jardineiro,Segurança,$2012.58,Ativo,2022-02-09
+309,Catlin Baly,Supervisor Operacional,Limpeza,$1687.02,Licença Maternidade,2023-04-21
+310,Adelice Saul,Controlador de Acesso,Limpeza,$2433.23,Ativo,2025-01-31
+311,Andrea Di Claudio,Vigilante,Limpeza,$2006.67,Desligado.,2023-09-01
+312,Goldia Vynoll,Auxiliar de Serviços Gerais,Limpeza,$2439.32,Licença Maternidade,2024-04-12
+313,Janessa Stothart,Supervisor Operacional,Limpeza,$2127.97,Ativo,2021-04-11
+314,Patricia Everal,Jardineiro,Segurança,$2097.31,Férias,2023-01-11
+315,Cass Ivamy,Vigilante,Administrativo.,$2027.60,Licença Maternidade,2021-01-24
+316,Wini Popworth,Vigilante,Limpeza,$1843.06,Licença Maternidade,2023-01-21
+317,Tori Hadkins,Jardineiro,Segurança,$1288.85,Desligado.,2023-03-14
+318,Norri Blakeney,Vigilante,Segurança,$1478.27,Licença Maternidade,2023-07-30
+319,Cindy Skain,Vigilante,Segurança,$2088.38,Ativo,2023-05-14
+320,Katy Beig,Auxiliar de Serviços Gerais,Limpeza,$2016.37,Férias,2021-05-13
+321,Dinny Gouldeby,Supervisor Operacional,Limpeza,$1585.49,Licença Maternidade,2020-10-30
+322,Dale Andre,Auxiliar de Serviços Gerais,Administrativo.,$2417.37,Ativo,2024-07-28
+323,Kira Skains,Controlador de Acesso,Administrativo.,$1171.95,Desligado.,2023-12-08
+324,Emalia Lurriman,Vigilante,Administrativo.,$2177.88,Ativo,2023-05-26
+325,Melonie Welbourn,Vigilante,Limpeza,$1739.07,Desligado.,2022-07-13
+326,Shannah Innocenti,Jardineiro,Administrativo.,$2284.52,Férias,2023-11-19
+327,Sioux Newtown,Auxiliar de Serviços Gerais,Administrativo.,$2355.97,Licença Maternidade,2025-02-07
+328,Mel Josselsohn,Vigilante,Administrativo.,$1961.18,Férias,2024-05-27
+329,Cristal Venner,Supervisor Operacional,Segurança,$2009.76,Ativo,2024-12-09
+330,Denise Bewley,Supervisor Operacional,Segurança,$1457.99,Ativo,2025-02-10
+331,Elfie Louca,Vigilante,Administrativo.,$1832.74,Desligado.,2024-10-16
+332,Yehudit Melmoth,Supervisor Operacional,Limpeza,$2498.18,Férias,2024-06-04
+333,Skylar Sempill,Supervisor Operacional,Segurança,$2361.77,Licença Maternidade,2022-09-03
+334,Doreen Chamley,Supervisor Operacional,Segurança,$1222.84,Licença Maternidade,2023-01-06
+335,Killian Rossey,Supervisor Operacional,Administrativo.,$2248.22,Licença Maternidade,2021-06-25
+336,Calla Hinchcliffe,Vigilante,Administrativo.,$1244.44,Licença Maternidade,2024-09-18
+337,Harv Bodham,Controlador de Acesso,Segurança,$1817.85,Férias,2024-07-23
+338,Ruy Klamman,Vigilante,Segurança,$2116.69,Ativo,2022-12-20
+339,Herve Casburn,Supervisor Operacional,Limpeza,$1001.51,Licença Maternidade,2023-01-03
+340,Griffy Birchenhead,Controlador de Acesso,Limpeza,$1746.09,Licença Maternidade,2024-06-08
+341,Krissie Rayhill,Supervisor Operacional,Administrativo.,$1748.80,Desligado.,2021-12-22
+342,Jerrold Knoton,Auxiliar de Serviços Gerais,Segurança,$1313.92,Ativo,2024-09-20
+343,Moritz Shimmans,Jardineiro,Limpeza,$1029.54,Ativo,2024-05-25
+344,Arther Staker,Jardineiro,Administrativo.,$1549.67,Licença Maternidade,2021-07-03
+345,Scarlet Vernazza,Jardineiro,Segurança,$1944.88,Férias,2024-04-29
+346,Reinhold Coggings,Vigilante,Limpeza,$2039.30,Licença Maternidade,2021-11-12
+347,Ginevra Woolacott,Auxiliar de Serviços Gerais,Segurança,$1071.13,Licença Maternidade,2022-10-15
+348,Skipton Haythorn,Supervisor Operacional,Limpeza,$2445.49,Desligado.,2022-04-07
+349,Even Rivalland,Auxiliar de Serviços Gerais,Limpeza,$2041.59,Desligado.,2024-09-26
+350,Vachel Hewell,Jardineiro,Segurança,$2152.85,Desligado.,2024-05-25
+351,Westley Sicily,Controlador de Acesso,Limpeza,$2356.22,Desligado.,2023-12-03
+352,Maison Temby,Vigilante,Segurança,$2255.38,Ativo,2022-06-17
+353,Eddie Spinks,Supervisor Operacional,Limpeza,$1727.90,Desligado.,2022-05-23
+354,Judy Gethins,Supervisor Operacional,Limpeza,$1415.21,Licença Maternidade,2023-07-14
+355,Lambert Kelemen,Controlador de Acesso,Limpeza,$1985.91,Férias,2023-06-20
+356,Rikki McNess,Vigilante,Segurança,$1975.31,Férias,2022-07-14
+357,Wendall Domican,Jardineiro,Limpeza,$1424.33,Licença Maternidade,2024-01-29
+358,Rudyard Batho,Jardineiro,Limpeza,$1074.56,Desligado.,2021-04-23
+359,Sybyl Potzold,Supervisor Operacional,Limpeza,$2422.87,Férias,2024-08-27
+360,Kain Hedditeh,Auxiliar de Serviços Gerais,Limpeza,$1327.36,Desligado.,2022-09-03
+361,Sari Danton,Vigilante,Limpeza,$1859.51,Ativo,2021-06-15
+362,Fidelia Wetton,Supervisor Operacional,Segurança,$1562.67,Ativo,2022-01-12
+363,Jonell Remington,Controlador de Acesso,Administrativo.,$1909.49,Férias,2020-12-03
+364,Ketty Meddemmen,Supervisor Operacional,Segurança,$1852.65,Desligado.,2024-04-28
+365,Kaile Rawcliffe,Auxiliar de Serviços Gerais,Administrativo.,$1340.17,Licença Maternidade,2021-08-22
+366,Arlinda Dehmel,Controlador de Acesso,Administrativo.,$2240.78,Desligado.,2021-08-23
+367,Aila Mourton,Auxiliar de Serviços Gerais,Limpeza,$2335.88,Ativo,2024-05-08
+368,Oran Catmull,Supervisor Operacional,Segurança,$2233.70,Licença Maternidade,2024-12-23
+369,Corilla Durnford,Jardineiro,Administrativo.,$1142.53,Licença Maternidade,2024-09-14
+370,Luther Daffey,Supervisor Operacional,Segurança,$1197.78,Licença Maternidade,2023-04-08
+371,Margie Billingsly,Controlador de Acesso,Administrativo.,$1927.77,Licença Maternidade,2022-07-01
+372,Aurel Chilton,Vigilante,Administrativo.,$1126.10,Férias,2025-10-11
+373,Gigi Mc Comb,Controlador de Acesso,Limpeza,$1232.03,Férias,2022-04-25
+374,Luelle Masser,Supervisor Operacional,Administrativo.,$1057.18,Desligado.,2024-03-29
+375,Margareta Franzoli,Controlador de Acesso,Limpeza,$2432.61,Licença Maternidade,2025-02-04
+376,Nanci Bosse,Vigilante,Limpeza,$1604.24,Férias,2021-09-24
+377,Grove Barstowk,Auxiliar de Serviços Gerais,Limpeza,$2259.52,Desligado.,2025-07-31
+378,Dre Stops,Controlador de Acesso,Segurança,$1260.04,Desligado.,2024-03-09
+379,Robinette Malster,Jardineiro,Administrativo.,$1906.58,Ativo,2021-02-02
+380,Fredi Baudinelli,Jardineiro,Segurança,$1768.49,Desligado.,2021-08-31
+381,Mallissa Linskill,Auxiliar de Serviços Gerais,Segurança,$2071.11,Férias,2022-08-09
+382,Maggee Jimeno,Controlador de Acesso,Limpeza,$1427.49,Ativo,2023-01-08
+383,Averil Alasdair,Auxiliar de Serviços Gerais,Limpeza,$1082.89,Desligado.,2021-04-03
+384,Ellsworth Medwell,Vigilante,Administrativo.,$1769.74,Desligado.,2025-04-30
+385,Mercedes Wistance,Auxiliar de Serviços Gerais,Limpeza,$1259.13,Ativo,2020-12-02
+386,Shelby Grills,Controlador de Acesso,Segurança,$2182.08,Licença Maternidade,2024-08-14
+387,Ursola Ferneley,Jardineiro,Administrativo.,$1692.19,Ativo,2022-03-19
+388,Meta Bird,Supervisor Operacional,Limpeza,$2317.73,Férias,2024-12-22
+389,Jean Castellet,Auxiliar de Serviços Gerais,Limpeza,$1266.11,Desligado.,2025-06-18
+390,Virginie Isitt,Vigilante,Limpeza,$1992.97,Licença Maternidade,2021-06-26
+391,Giffie Capstake,Supervisor Operacional,Limpeza,$1257.45,Ativo,2023-11-19
+392,Denys Griggs,Jardineiro,Limpeza,$1806.34,Ativo,2023-07-04
+393,Carolyne Astley,Controlador de Acesso,Limpeza,$2268.39,Férias,2023-01-09
+394,Donielle McKeating,Controlador de Acesso,Limpeza,$1017.08,Desligado.,2021-06-25
+395,Micah O'Cullinane,Jardineiro,Limpeza,$1959.09,Ativo,2022-12-28
+396,Phelia Draper,Auxiliar de Serviços Gerais,Segurança,$1995.91,Ativo,2023-08-26
+397,Anna-diana Koschek,Supervisor Operacional,Segurança,$1334.58,Licença Maternidade,2021-08-21
+398,Clair Petit,Auxiliar de Serviços Gerais,Segurança,$1921.30,Licença Maternidade,2024-09-21
+399,Abigale Foynes,Jardineiro,Limpeza,$2037.39,Licença Maternidade,2021-02-13
+400,Kirk Wailes,Auxiliar de Serviços Gerais,Limpeza,$1680.78,Desligado.,2021-02-26
+401,Lucita Bodker,Auxiliar de Serviços Gerais,Limpeza,$1674.45,Ativo,2024-05-06
+402,Estele De Blasiis,Controlador de Acesso,Segurança,$1782.47,Licença Maternidade,2021-12-02
+403,Dionne Gillease,Supervisor Operacional,Limpeza,$2190.57,Desligado.,2024-08-06
+404,Aguste Benzi,Jardineiro,Administrativo.,$1639.41,Ativo,2024-03-07
+405,Rona Hardison,Vigilante,Limpeza,$1307.20,Desligado.,2024-11-26
+406,Ellswerth McRonald,Controlador de Acesso,Segurança,$2308.75,Ativo,2025-04-09
+407,Andromache Valois,Controlador de Acesso,Segurança,$1531.35,Ativo,2025-02-07
+408,Tome Storek,Jardineiro,Limpeza,$2058.93,Licença Maternidade,2025-05-13
+409,Chick Gregorowicz,Auxiliar de Serviços Gerais,Segurança,$1861.61,Férias,2022-04-11
+410,Welby Fox,Controlador de Acesso,Administrativo.,$2169.25,Desligado.,2021-05-25
+411,Keith Orbell,Vigilante,Administrativo.,$1538.39,Desligado.,2020-11-19
+412,Cosme L'Amie,Vigilante,Segurança,$2045.96,Desligado.,2021-02-06
+413,Saloma Guille,Jardineiro,Limpeza,$1952.66,Licença Maternidade,2023-04-08
+414,Marika Tracey,Jardineiro,Segurança,$1047.02,Desligado.,2023-12-13
+415,Joanne Morrallee,Vigilante,Segurança,$1712.25,Ativo,2022-11-29
+416,Angelle Verissimo,Auxiliar de Serviços Gerais,Administrativo.,$1731.70,Desligado.,2023-12-15
+417,Wendye Tapner,Supervisor Operacional,Segurança,$1634.07,Desligado.,2024-03-24
+418,Sydel Mixhel,Controlador de Acesso,Limpeza,$1036.40,Desligado.,2022-11-27
+419,Merrily McKue,Auxiliar de Serviços Gerais,Segurança,$2315.26,Licença Maternidade,2024-11-13
+420,Laureen Sackey,Auxiliar de Serviços Gerais,Segurança,$1709.55,Desligado.,2020-12-02
+421,Glynn Courtonne,Controlador de Acesso,Administrativo.,$1854.66,Férias,2022-01-08
+422,Mal Roback,Controlador de Acesso,Administrativo.,$1139.61,Licença Maternidade,2024-02-20
+423,Georgia Ruffler,Supervisor Operacional,Limpeza,$1911.31,Licença Maternidade,2025-01-23
+424,Fidelity Whyffen,Vigilante,Limpeza,$2366.15,Licença Maternidade,2022-03-02
+425,Aurthur Shorey,Auxiliar de Serviços Gerais,Limpeza,$2297.19,Ativo,2024-10-08
+426,Felicity Coupe,Vigilante,Administrativo.,$1417.85,Licença Maternidade,2023-09-18
+427,Catlee Schollar,Supervisor Operacional,Administrativo.,$1844.18,Ativo,2023-03-28
+428,Carleton Stonham,Auxiliar de Serviços Gerais,Segurança,$1997.96,Ativo,2024-08-28
+429,Amaleta Covolini,Jardineiro,Limpeza,$1115.09,Ativo,2025-09-26
+430,Olive Dellow,Auxiliar de Serviços Gerais,Administrativo.,$1501.78,Desligado.,2021-01-14
+431,Mehetabel Wreakes,Controlador de Acesso,Administrativo.,$1727.61,Ativo,2020-11-13
+432,Elisabeth Possa,Supervisor Operacional,Segurança,$1315.76,Licença Maternidade,2021-11-29
+433,Agata Hedditeh,Controlador de Acesso,Segurança,$2122.50,Licença Maternidade,2023-12-08
+434,Law Leander,Vigilante,Administrativo.,$1673.72,Desligado.,2021-04-13
+435,Wendye Becerra,Auxiliar de Serviços Gerais,Limpeza,$1182.22,Ativo,2025-04-02
+436,Barbara Paute,Jardineiro,Limpeza,$2345.60,Desligado.,2024-12-02
+437,Gauthier Bruntjen,Controlador de Acesso,Administrativo.,$1267.94,Desligado.,2021-01-02
+438,Elaina Ferrai,Controlador de Acesso,Segurança,$2439.47,Licença Maternidade,2022-12-20
+439,Fairleigh Prendergrast,Jardineiro,Administrativo.,$1844.23,Ativo,2025-03-17
+440,Flossy Rodie,Auxiliar de Serviços Gerais,Administrativo.,$2478.40,Licença Maternidade,2021-03-17
+441,Joell Jilkes,Jardineiro,Administrativo.,$1856.66,Desligado.,2023-01-20
+442,Gary Dockery,Controlador de Acesso,Limpeza,$2166.41,Licença Maternidade,2021-05-04
+443,Freddi Lenton,Supervisor Operacional,Administrativo.,$2185.01,Licença Maternidade,2023-11-21
+444,Dottie Sugg,Supervisor Operacional,Limpeza,$2042.51,Férias,2022-04-16
+445,Abner Collington,Jardineiro,Limpeza,$1903.03,Desligado.,2024-02-26
+446,Roxie Barrand,Vigilante,Segurança,$2115.30,Desligado.,2022-06-18
+447,Gayle Simson,Controlador de Acesso,Segurança,$1317.93,Ativo,2023-05-05
+448,Sanderson Carlos,Auxiliar de Serviços Gerais,Limpeza,$2471.56,Férias,2022-09-08
+449,Saxon Gooding,Jardineiro,Limpeza,$1103.38,Desligado.,2024-10-27
+450,Mikol Pilipyak,Controlador de Acesso,Limpeza,$1326.98,Férias,2025-01-28
+451,Devi Farrear,Jardineiro,Administrativo.,$1251.42,Férias,2022-11-28
+452,Renaldo Lammers,Jardineiro,Limpeza,$1950.74,Desligado.,2025-08-02
+453,Angele Novotne,Auxiliar de Serviços Gerais,Limpeza,$1502.95,Licença Maternidade,2025-06-20
+454,Luke Nyles,Supervisor Operacional,Limpeza,$2418.14,Desligado.,2021-07-13
+455,Perla Godfray,Vigilante,Administrativo.,$2151.15,Licença Maternidade,2025-04-02
+456,Jessamyn Trewett,Auxiliar de Serviços Gerais,Administrativo.,$1183.63,Licença Maternidade,2023-10-28
+457,Callie Riepel,Supervisor Operacional,Administrativo.,$2416.16,Desligado.,2024-03-09
+458,Thacher Benardeau,Controlador de Acesso,Administrativo.,$1266.87,Licença Maternidade,2025-06-27
+459,Ninnette Bigley,Auxiliar de Serviços Gerais,Limpeza,$1094.67,Ativo,2023-09-21
+460,Thadeus Romero,Auxiliar de Serviços Gerais,Limpeza,$2374.60,Férias,2022-07-18
+461,Quint Nannizzi,Jardineiro,Limpeza,$1481.00,Férias,2025-03-25
+462,Steward Ridoutt,Auxiliar de Serviços Gerais,Administrativo.,$1670.72,Desligado.,2024-05-10
+463,Normy Coster,Jardineiro,Administrativo.,$1113.91,Ativo,2021-02-09
+464,Lucius Greig,Controlador de Acesso,Administrativo.,$1071.89,Licença Maternidade,2022-10-30
+465,Farra Spadelli,Controlador de Acesso,Segurança,$2310.10,Licença Maternidade,2020-12-22
+466,Siana Ference,Controlador de Acesso,Limpeza,$1534.12,Desligado.,2025-04-26
+467,Daile Seyfart,Auxiliar de Serviços Gerais,Segurança,$1617.29,Licença Maternidade,2025-01-20
+468,Franzen Wanklin,Vigilante,Limpeza,$2385.36,Férias,2023-02-19
+469,Romain Liddicoat,Supervisor Operacional,Segurança,$1949.45,Licença Maternidade,2022-04-25
+470,Riane Remer,Vigilante,Administrativo.,$1996.65,Licença Maternidade,2023-07-06
+471,Margareta Swansbury,Controlador de Acesso,Segurança,$2021.05,Desligado.,2023-11-30
+472,Arch O'Gaven,Supervisor Operacional,Segurança,$1933.78,Ativo,2023-06-01
+473,Jilly Garshore,Jardineiro,Limpeza,$1544.43,Licença Maternidade,2023-06-23
+474,Horst Shorey,Auxiliar de Serviços Gerais,Segurança,$1576.73,Desligado.,2021-06-28
+475,Fletcher Cathcart,Supervisor Operacional,Segurança,$1928.59,Licença Maternidade,2021-04-13
+476,Sheppard Rennebach,Supervisor Operacional,Limpeza,$2497.78,Desligado.,2023-03-16
+477,Timoteo Croxford,Auxiliar de Serviços Gerais,Segurança,$1237.60,Férias,2022-12-19
+478,Diandra Toby,Vigilante,Segurança,$1274.93,Ativo,2020-11-20
+479,Stirling Mitcham,Supervisor Operacional,Limpeza,$1904.01,Desligado.,2021-11-12
+480,Justinn Wolland,Auxiliar de Serviços Gerais,Administrativo.,$2086.29,Licença Maternidade,2021-02-12
+481,Sybyl Vaan,Controlador de Acesso,Segurança,$1959.13,Férias,2023-10-31
+482,Avrit Espinazo,Supervisor Operacional,Segurança,$1492.59,Ativo,2024-08-14
+483,Minda MacCarroll,Auxiliar de Serviços Gerais,Segurança,$2289.62,Ativo,2024-07-21
+484,Brandea Round,Controlador de Acesso,Limpeza,$1563.19,Ativo,2021-03-20
+485,Olia Ditch,Jardineiro,Segurança,$1018.08,Licença Maternidade,2022-10-10
+486,Miner Davidwitz,Auxiliar de Serviços Gerais,Segurança,$2357.91,Licença Maternidade,2022-11-23
+487,Raymond Freear,Vigilante,Administrativo.,$1835.38,Férias,2021-08-08
+488,Hort Proschek,Supervisor Operacional,Limpeza,$2336.12,Desligado.,2021-06-18
+489,Dinny Drewry,Jardineiro,Limpeza,$2205.51,Férias,2020-12-15
+490,Cedric Heathcote,Jardineiro,Segurança,$2108.66,Licença Maternidade,2025-05-05
+491,Josh Aucott,Supervisor Operacional,Administrativo.,$1868.53,Ativo,2024-11-23
+492,Arlinda Blackboro,Vigilante,Administrativo.,$2325.67,Desligado.,2020-12-30
+493,Mahmud Mishow,Controlador de Acesso,Segurança,$1260.57,Desligado.,2023-05-08
+494,Hedwiga Moule,Auxiliar de Serviços Gerais,Administrativo.,$1177.17,Férias,2021-10-16
+495,Cinnamon Grigorey,Supervisor Operacional,Limpeza,$2141.40,Férias,2024-08-13
+496,Daisi Christoforou,Jardineiro,Limpeza,$1917.38,Ativo,2025-07-20
+497,Ronalda Matura,Controlador de Acesso,Limpeza,$2345.11,Ativo,2023-01-28
+498,Penny Jewks,Controlador de Acesso,Administrativo.,$2383.38,Desligado.,2025-01-09
+499,Skyler Darleston,Auxiliar de Serviços Gerais,Segurança,$2245.95,Férias,2022-12-21
+500,Noni Diviny,Vigilante,Administrativo.,$1479.58,Ativo,2021-09-21
+501,Filippa Gorden,Vigilante,Limpeza,$2053.23,Licença Maternidade,2021-08-31
+502,Lew Jeanequin,Auxiliar de Serviços Gerais,Limpeza,$1467.39,Licença Maternidade,2024-06-08
+503,Audi Kenderdine,Jardineiro,Segurança,$2385.15,Desligado.,2023-03-02
+504,Ulrica English,Supervisor Operacional,Limpeza,$1578.75,Licença Maternidade,2023-07-07
+505,Darrick Joe,Controlador de Acesso,Administrativo.,$1098.15,Licença Maternidade,2020-12-28
+506,Clari Dunster,Jardineiro,Limpeza,$1805.42,Ativo,2023-06-18
+507,Loraine Nashe,Jardineiro,Administrativo.,$1621.71,Ativo,2024-07-24
+508,Thoma Scoone,Supervisor Operacional,Limpeza,$1918.30,Férias,2025-04-03
+509,Ingrid Ioselevich,Supervisor Operacional,Administrativo.,$2157.73,Ativo,2021-01-10
+510,Morissa Folbige,Supervisor Operacional,Segurança,$1446.99,Ativo,2021-10-25
+511,Ricardo Leaton,Jardineiro,Administrativo.,$2311.76,Licença Maternidade,2025-02-07
+512,Barnebas Fewtrell,Controlador de Acesso,Administrativo.,$1636.27,Férias,2021-04-10
+513,Baird Turfitt,Controlador de Acesso,Limpeza,$2381.43,Férias,2021-07-01
+514,Stace Luck,Vigilante,Segurança,$1721.76,Férias,2025-10-15
+515,Pace Gagen,Supervisor Operacional,Segurança,$1179.75,Desligado.,2024-12-21
+516,Janela Frenzl,Vigilante,Administrativo.,$1146.65,Ativo,2023-04-03
+517,Fabio Bedward,Jardineiro,Limpeza,$2181.59,Desligado.,2025-04-30
+518,Lionello Ousley,Controlador de Acesso,Administrativo.,$2185.20,Ativo,2024-11-20
+519,Angelika Scobbie,Vigilante,Limpeza,$2195.85,Licença Maternidade,2021-02-17
+520,Jehanna Adcocks,Vigilante,Administrativo.,$1129.92,Licença Maternidade,2022-09-05
+521,Shannan Roylance,Controlador de Acesso,Segurança,$1161.15,Licença Maternidade,2022-09-01
+522,Iris FitzGeorge,Auxiliar de Serviços Gerais,Limpeza,$1414.26,Licença Maternidade,2025-03-17
+523,Theodoric Diano,Controlador de Acesso,Segurança,$2239.46,Ativo,2022-07-14
+524,Elvin Bourthouloume,Controlador de Acesso,Limpeza,$1490.58,Desligado.,2022-04-19
+525,June Aris,Vigilante,Limpeza,$1422.17,Licença Maternidade,2023-01-27
+526,Romona Mussett,Controlador de Acesso,Administrativo.,$2217.37,Licença Maternidade,2023-10-07
+527,Giralda Conybear,Vigilante,Limpeza,$1698.59,Férias,2023-05-03
+528,Arlyn Bedow,Jardineiro,Administrativo.,$1099.36,Férias,2024-01-12
+529,Kessiah GiacobbiniJacob,Vigilante,Limpeza,$1674.12,Férias,2022-06-18
+530,Hanny Huntingford,Vigilante,Segurança,$1160.70,Licença Maternidade,2023-03-17
+531,Claudelle Bettles,Controlador de Acesso,Segurança,$2025.07,Desligado.,2023-07-24
+532,Calida Gordge,Jardineiro,Segurança,$2282.03,Ativo,2025-09-20
+533,Reta Yakuntsov,Vigilante,Segurança,$2281.56,Férias,2022-03-28
+534,Eben Kinnoch,Jardineiro,Administrativo.,$1186.99,Desligado.,2025-06-02
+535,Carolyne Chasmer,Controlador de Acesso,Administrativo.,$1602.70,Desligado.,2022-09-22
+536,Ulric Davidovitch,Supervisor Operacional,Limpeza,$2223.82,Licença Maternidade,2020-11-17
+537,Laurice Quant,Supervisor Operacional,Administrativo.,$1663.44,Licença Maternidade,2025-01-19
+538,Teddie Danilchik,Supervisor Operacional,Segurança,$2371.64,Desligado.,2023-06-06
+539,Meredith Durie,Controlador de Acesso,Segurança,$2241.49,Licença Maternidade,2021-04-28
+540,Cilka Shrieves,Controlador de Acesso,Segurança,$1826.84,Licença Maternidade,2025-06-02
+541,Deny Glinde,Supervisor Operacional,Limpeza,$1022.05,Desligado.,2022-10-04
+542,Port Jewks,Supervisor Operacional,Administrativo.,$1272.25,Desligado.,2023-07-15
+543,Correna Tremollet,Controlador de Acesso,Administrativo.,$1063.77,Licença Maternidade,2023-03-25
+544,Pascale Liggens,Supervisor Operacional,Limpeza,$1820.34,Licença Maternidade,2022-11-05
+545,Jory Grabbam,Jardineiro,Limpeza,$1907.67,Férias,2024-01-20
+546,Michail Hoyte,Supervisor Operacional,Administrativo.,$1242.53,Férias,2022-05-30
+547,Wallace Mullany,Auxiliar de Serviços Gerais,Administrativo.,$1261.96,Desligado.,2021-05-29
+548,Daron Glynn,Controlador de Acesso,Segurança,$1517.11,Férias,2022-08-19
+549,Katrine Fry,Supervisor Operacional,Limpeza,$2349.65,Ativo,2020-11-02
+550,Rossy Weepers,Jardineiro,Administrativo.,$1952.60,Férias,2023-06-15
+551,Karl Mohammad,Controlador de Acesso,Administrativo.,$1863.73,Licença Maternidade,2025-10-19
+552,Worden Linny,Controlador de Acesso,Administrativo.,$1154.82,Licença Maternidade,2024-01-25
+553,Stewart Bearward,Vigilante,Segurança,$2038.90,Licença Maternidade,2021-01-11
+554,Theresina Jereatt,Auxiliar de Serviços Gerais,Limpeza,$2052.47,Férias,2022-09-30
+555,Lotta McGregor,Vigilante,Administrativo.,$1467.14,Férias,2024-05-01
+556,Bo De Santos,Auxiliar de Serviços Gerais,Segurança,$1372.39,Férias,2022-10-10
+557,Mitchael Dupey,Auxiliar de Serviços Gerais,Segurança,$1991.43,Desligado.,2024-04-09
+558,Haven Beckson,Jardineiro,Limpeza,$2269.69,Desligado.,2023-01-15
+559,Letisha Hallett,Controlador de Acesso,Limpeza,$1121.89,Ativo,2024-09-19
+560,Tomasine Adamovsky,Supervisor Operacional,Limpeza,$2307.68,Férias,2023-05-14
+561,Martguerita Cowlishaw,Supervisor Operacional,Segurança,$2079.36,Ativo,2023-08-27
+562,Holly Doogue,Vigilante,Segurança,$2124.94,Férias,2024-10-09
+563,Charmaine Dupree,Vigilante,Limpeza,$1584.95,Férias,2021-09-20
+564,Angela Masseo,Supervisor Operacional,Limpeza,$2058.19,Férias,2021-02-12
+565,Gaelan Abela,Controlador de Acesso,Limpeza,$2281.81,Férias,2024-04-20
+566,Deny Barette,Controlador de Acesso,Limpeza,$1226.29,Ativo,2025-04-08
+567,Adella Adamthwaite,Controlador de Acesso,Segurança,$2193.65,Férias,2021-08-01
+568,Conny Helstrip,Jardineiro,Segurança,$2283.34,Desligado.,2021-11-10
+569,Clem Feakins,Jardineiro,Segurança,$1966.32,Desligado.,2023-12-09
+570,Reinhold Duxbarry,Vigilante,Limpeza,$1294.75,Desligado.,2023-09-23
+571,Jazmin Dyson,Jardineiro,Segurança,$1694.36,Desligado.,2023-09-27
+572,Thorsten Mulder,Vigilante,Administrativo.,$1272.48,Férias,2021-10-30
+573,Leo Manvelle,Supervisor Operacional,Administrativo.,$1213.58,Férias,2024-03-14
+574,Leroi Flew,Vigilante,Limpeza,$2441.14,Férias,2020-11-03
+575,Padraic Haszard,Vigilante,Segurança,$1766.97,Licença Maternidade,2022-02-05
+576,Demetris Crimes,Controlador de Acesso,Administrativo.,$2420.73,Licença Maternidade,2023-01-14
+577,Glenn Kobierra,Controlador de Acesso,Limpeza,$1635.15,Ativo,2021-04-16
+578,Cecelia Arthey,Jardineiro,Segurança,$1511.51,Férias,2025-08-05
+579,Nevil Hans,Auxiliar de Serviços Gerais,Limpeza,$1555.51,Ativo,2021-08-01
+580,Cleveland Frenzel;,Supervisor Operacional,Limpeza,$1660.32,Ativo,2023-04-20
+581,Valeria Piel,Jardineiro,Segurança,$1904.50,Desligado.,2022-12-14
+582,De witt Ramiro,Supervisor Operacional,Segurança,$2498.66,Férias,2022-08-18
+583,Pet Rosengren,Controlador de Acesso,Limpeza,$2449.54,Ativo,2021-04-19
+584,Abby Tysall,Vigilante,Segurança,$1448.22,Licença Maternidade,2022-11-27
+585,Shayne Loseke,Auxiliar de Serviços Gerais,Limpeza,$2387.40,Desligado.,2023-07-02
+586,Irene Wandrach,Supervisor Operacional,Segurança,$1557.83,Ativo,2022-12-10
+587,Bobbie Cowan,Jardineiro,Segurança,$1631.70,Férias,2021-05-20
+588,Merola Verduin,Auxiliar de Serviços Gerais,Segurança,$1511.57,Férias,2022-04-30
+589,Peta Piff,Controlador de Acesso,Limpeza,$1706.02,Ativo,2024-09-02
+590,Bordie Sissons,Supervisor Operacional,Administrativo.,$2376.29,Férias,2022-12-21
+591,Kasper Prawle,Supervisor Operacional,Administrativo.,$2333.61,Férias,2021-01-29
+592,Cyril Hollingdale,Controlador de Acesso,Segurança,$2301.59,Licença Maternidade,2024-04-02
+593,Rob Nucator,Controlador de Acesso,Limpeza,$1771.12,Licença Maternidade,2024-03-01
+594,Stirling Pervew,Supervisor Operacional,Administrativo.,$1073.73,Desligado.,2024-04-19
+595,Owen Ord,Controlador de Acesso,Limpeza,$1498.33,Ativo,2025-04-15
+596,Darcy Worsfield,Auxiliar de Serviços Gerais,Segurança,$1631.10,Ativo,2024-05-13
+597,Marthe Eade,Jardineiro,Segurança,$2141.13,Férias,2024-05-01
+598,Sissie Bonnell,Jardineiro,Administrativo.,$1419.23,Licença Maternidade,2021-09-24
+599,Florentia Losbie,Auxiliar de Serviços Gerais,Administrativo.,$2046.22,Desligado.,2022-09-30
+600,Brandy Clancey,Jardineiro,Segurança,$2218.97,Desligado.,2023-08-09
+601,Oliver Du Pre,Supervisor Operacional,Limpeza,$1409.39,Ativo,2023-12-29
+602,Noel Baddoe,Vigilante,Segurança,$1371.27,Férias,2021-10-31
+603,Cobby Jobbins,Auxiliar de Serviços Gerais,Administrativo.,$1522.94,Desligado.,2023-08-23
+604,Cinda O'Neill,Auxiliar de Serviços Gerais,Segurança,$2263.20,Licença Maternidade,2023-02-27
+605,Carlynn Hunnybun,Vigilante,Administrativo.,$1851.22,Ativo,2024-10-19
+606,Tamra Frensch,Vigilante,Limpeza,$1626.19,Licença Maternidade,2021-10-19
+607,Gussi Lude,Jardineiro,Administrativo.,$1071.12,Licença Maternidade,2022-01-25
+608,Millicent Wanne,Auxiliar de Serviços Gerais,Segurança,$1503.26,Ativo,2025-05-12
+609,Ned Mendez,Vigilante,Administrativo.,$1259.06,Desligado.,2022-10-15
+610,Cheri Shawe,Jardineiro,Administrativo.,$1140.58,Desligado.,2023-09-09
+611,Ky Stock,Supervisor Operacional,Segurança,$1068.05,Desligado.,2023-03-21
+612,Marta Mateuszczyk,Controlador de Acesso,Segurança,$1784.02,Férias,2025-02-16
+613,Giuditta Whetland,Controlador de Acesso,Administrativo.,$1744.01,Férias,2021-04-01
+614,Bucky Broomhead,Supervisor Operacional,Limpeza,$1142.99,Ativo,2023-05-08
+615,Vonny Elener,Jardineiro,Limpeza,$1352.28,Ativo,2022-10-03
+616,Gregorio Blackleech,Controlador de Acesso,Segurança,$1518.58,Licença Maternidade,2023-04-25
+617,Hogan Hasser,Supervisor Operacional,Segurança,$2302.34,Desligado.,2021-04-30
+618,Steward MacKaile,Auxiliar de Serviços Gerais,Segurança,$2402.56,Férias,2021-02-13
+619,Jeffrey Ryley,Supervisor Operacional,Segurança,$1311.11,Desligado.,2022-03-08
+620,Stevie Pierse,Supervisor Operacional,Segurança,$1129.07,Desligado.,2021-07-05
+621,Lukas Domenico,Controlador de Acesso,Limpeza,$1681.29,Ativo,2022-07-08
+622,Nelly Yuryatin,Auxiliar de Serviços Gerais,Limpeza,$1509.18,Férias,2022-07-02
+623,Trenton Phizaclea,Supervisor Operacional,Limpeza,$1999.70,Licença Maternidade,2023-05-06
+624,Orsola Perks,Supervisor Operacional,Limpeza,$2210.11,Desligado.,2021-09-06
+625,Gail Midgley,Jardineiro,Limpeza,$1894.36,Ativo,2022-09-14
+626,Lolly Seer,Controlador de Acesso,Segurança,$2227.56,Desligado.,2024-12-15
+627,Dov Brittin,Vigilante,Administrativo.,$1636.88,Ativo,2022-05-07
+628,Bernadine Cleare,Auxiliar de Serviços Gerais,Administrativo.,$1844.66,Licença Maternidade,2021-09-27
+629,Elladine Larne,Auxiliar de Serviços Gerais,Administrativo.,$2230.87,Ativo,2021-10-18
+630,Karlee Wimpeney,Jardineiro,Administrativo.,$2395.11,Ativo,2022-12-26
+631,Gerrilee Iacavone,Controlador de Acesso,Limpeza,$1511.31,Férias,2025-09-09
+632,Lizzy Stirtle,Controlador de Acesso,Limpeza,$1019.89,Desligado.,2021-06-22
+633,Nerte McDade,Auxiliar de Serviços Gerais,Segurança,$1450.29,Férias,2023-03-28
+634,Hurley Vreiberg,Jardineiro,Limpeza,$2226.76,Ativo,2024-04-16
+635,Renato Aloigi,Auxiliar de Serviços Gerais,Administrativo.,$1673.57,Licença Maternidade,2024-04-14
+636,Gigi Caile,Vigilante,Limpeza,$2431.57,Férias,2021-02-07
+637,Delphine Duckwith,Jardineiro,Administrativo.,$1508.97,Desligado.,2023-02-04
+638,Tricia Klausen,Jardineiro,Segurança,$1315.64,Licença Maternidade,2024-07-19
+639,Editha Rawne,Jardineiro,Limpeza,$2399.83,Ativo,2025-03-31
+640,Hoebart Roft,Auxiliar de Serviços Gerais,Segurança,$1383.14,Férias,2024-08-08
+641,Trenton Pitherick,Auxiliar de Serviços Gerais,Segurança,$1742.35,Licença Maternidade,2024-10-24
+642,Jo-ann Kearn,Vigilante,Administrativo.,$2266.23,Ativo,2025-08-23
+643,Hyacinthe Bourthoumieux,Vigilante,Segurança,$1447.53,Férias,2022-11-21
+644,Lucian Yakunkin,Supervisor Operacional,Limpeza,$1203.92,Ativo,2022-03-18
+645,Zollie Ahmed,Supervisor Operacional,Limpeza,$2026.13,Férias,2023-11-08
+646,Etienne Elintune,Jardineiro,Limpeza,$1724.03,Férias,2024-01-22
+647,Dewain Turton,Supervisor Operacional,Administrativo.,$1475.33,Licença Maternidade,2022-06-03
+648,Stevena Turk,Vigilante,Limpeza,$1358.94,Desligado.,2025-10-02
+649,Philbert Goodlet,Jardineiro,Administrativo.,$1264.86,Ativo,2025-01-19
+650,Colene Bauckham,Jardineiro,Limpeza,$1282.93,Licença Maternidade,2022-06-15
+651,Karyl Benham,Vigilante,Limpeza,$1890.86,Desligado.,2022-07-06
+652,Gisele Twiggins,Controlador de Acesso,Administrativo.,$2267.99,Ativo,2021-09-17
+653,Bobbette Lannen,Auxiliar de Serviços Gerais,Limpeza,$2092.52,Licença Maternidade,2024-02-16
+654,Belle Hymor,Vigilante,Limpeza,$2413.14,Desligado.,2023-01-23
+655,Berry Blant,Vigilante,Administrativo.,$2272.89,Férias,2022-07-31
+656,Eadmund Kennady,Auxiliar de Serviços Gerais,Administrativo.,$1812.58,Licença Maternidade,2021-10-23
+657,Sherwynd Giraudou,Jardineiro,Segurança,$1045.45,Ativo,2024-11-11
+658,Quintana Atkinson,Jardineiro,Limpeza,$2350.32,Desligado.,2021-12-09
+659,Thaddus Fellis,Supervisor Operacional,Limpeza,$1674.02,Licença Maternidade,2021-10-30
+660,Ninetta Ahern,Supervisor Operacional,Limpeza,$1174.82,Desligado.,2021-03-30
+661,Orin Penwell,Supervisor Operacional,Segurança,$1195.67,Férias,2024-11-14
+662,Kip Watkiss,Jardineiro,Administrativo.,$1769.24,Férias,2023-03-18
+663,Matty Olpin,Jardineiro,Administrativo.,$1451.02,Desligado.,2021-09-30
+664,Rosemaria Lean,Supervisor Operacional,Segurança,$1198.82,Desligado.,2023-12-15
+665,Maisie Gerrard,Auxiliar de Serviços Gerais,Limpeza,$2151.81,Férias,2024-05-26
+666,Juditha Auden,Auxiliar de Serviços Gerais,Limpeza,$2126.79,Licença Maternidade,2022-05-25
+667,Darleen Yashanov,Controlador de Acesso,Segurança,$1543.96,Desligado.,2020-12-28
+668,Newton Alderwick,Jardineiro,Limpeza,$2252.57,Férias,2024-03-29
+669,Merrie Cubley,Jardineiro,Limpeza,$2056.88,Licença Maternidade,2024-02-19
+670,Giavani Pavie,Vigilante,Segurança,$2358.40,Licença Maternidade,2022-12-15
+671,Rafaelita Chalcot,Supervisor Operacional,Segurança,$1225.85,Ativo,2025-04-21
+672,Salome Halm,Jardineiro,Segurança,$2268.55,Licença Maternidade,2023-02-24
+673,Walt Frew,Controlador de Acesso,Administrativo.,$1299.46,Férias,2021-01-19
+674,Michaela Bleiman,Jardineiro,Administrativo.,$1964.37,Férias,2025-07-17
+675,Glenden Sharrocks,Controlador de Acesso,Segurança,$2237.28,Desligado.,2023-08-14
+676,Morse Gowman,Auxiliar de Serviços Gerais,Administrativo.,$1671.97,Licença Maternidade,2024-10-13
+677,Ricky Bundey,Supervisor Operacional,Administrativo.,$2301.01,Férias,2024-10-02
+678,Nadiya Denty,Auxiliar de Serviços Gerais,Limpeza,$1464.17,Férias,2024-09-16
+679,Biddie Cotter,Auxiliar de Serviços Gerais,Administrativo.,$1275.21,Licença Maternidade,2021-09-19
+680,Rollin Hesse,Auxiliar de Serviços Gerais,Administrativo.,$2211.60,Licença Maternidade,2021-09-22
+681,Robinett Tomenson,Vigilante,Administrativo.,$1573.85,Ativo,2022-08-07
+682,Chaim Brattan,Supervisor Operacional,Segurança,$1960.42,Desligado.,2022-01-07
+683,Vick Cod,Jardineiro,Administrativo.,$1464.43,Ativo,2024-06-01
+684,Michaeline Norquay,Controlador de Acesso,Limpeza,$2279.41,Férias,2025-05-16
+685,Paxon Rate,Jardineiro,Limpeza,$2273.69,Desligado.,2022-04-28
+686,Kincaid Halfacree,Controlador de Acesso,Segurança,$2140.18,Ativo,2024-09-18
+687,Judy McGillreich,Jardineiro,Segurança,$1735.42,Férias,2022-05-30
+688,Gwendolen Lemoir,Vigilante,Limpeza,$2370.11,Licença Maternidade,2024-04-15
+689,Reggie Plewes,Vigilante,Segurança,$1577.25,Ativo,2021-07-26
+690,Donelle Lount,Jardineiro,Segurança,$1521.89,Licença Maternidade,2025-10-17
+691,Madalyn Coyish,Auxiliar de Serviços Gerais,Segurança,$1644.56,Desligado.,2023-01-30
+692,Nelia Gimblet,Vigilante,Limpeza,$1471.46,Licença Maternidade,2021-01-31
+693,Nicolette Hardin,Controlador de Acesso,Administrativo.,$1582.64,Ativo,2024-11-08
+694,Mireielle Aggiss,Supervisor Operacional,Limpeza,$1203.66,Ativo,2021-10-12
+695,Trip Chelley,Jardineiro,Administrativo.,$1171.70,Desligado.,2023-12-30
+696,Tiffanie Kilbey,Auxiliar de Serviços Gerais,Administrativo.,$1313.40,Ativo,2024-09-11
+697,Rosa Rye,Controlador de Acesso,Segurança,$2425.92,Ativo,2023-11-10
+698,Adelina Bromfield,Controlador de Acesso,Limpeza,$1474.22,Ativo,2023-07-15
+699,Xymenes Downing,Vigilante,Limpeza,$2013.82,Licença Maternidade,2022-11-06
+700,Laney D'Acth,Supervisor Operacional,Segurança,$2465.21,Férias,2025-07-28
+701,Devi Knapp,Jardineiro,Segurança,$1280.87,Licença Maternidade,2025-09-22
+702,Ethelind Gooke,Controlador de Acesso,Administrativo.,$1850.01,Desligado.,2022-07-20
+703,Gail Dillingstone,Vigilante,Segurança,$2144.69,Licença Maternidade,2021-09-10
+704,Olia Kynvin,Jardineiro,Segurança,$1939.92,Ativo,2020-12-31
+705,Dion Benjafield,Auxiliar de Serviços Gerais,Administrativo.,$2341.02,Ativo,2021-01-13
+706,Adams Downage,Jardineiro,Segurança,$1082.61,Licença Maternidade,2022-05-04
+707,Bartolomeo Crannach,Vigilante,Administrativo.,$2276.96,Licença Maternidade,2022-03-01
+708,Emerson Brigstock,Vigilante,Limpeza,$2434.77,Ativo,2025-06-12
+709,Wolfy Barns,Auxiliar de Serviços Gerais,Segurança,$1736.17,Férias,2025-05-21
+710,Iolande Durtnall,Supervisor Operacional,Administrativo.,$1969.48,Desligado.,2022-05-17
+711,Joanie Cearley,Jardineiro,Limpeza,$1953.87,Licença Maternidade,2022-02-20
+712,Aleda Bullivent,Jardineiro,Limpeza,$1388.92,Férias,2023-04-21
+713,Janeta Mair,Supervisor Operacional,Segurança,$1623.62,Desligado.,2021-04-04
+714,Harris Astman,Auxiliar de Serviços Gerais,Limpeza,$1776.09,Férias,2024-08-19
+715,Symon Panton,Vigilante,Administrativo.,$2483.47,Desligado.,2024-05-27
+716,Windy Jaqueminet,Jardineiro,Segurança,$2322.38,Ativo,2023-10-13
+717,Corbett Phelips,Vigilante,Limpeza,$2222.50,Férias,2023-11-29
+718,Brent Mathou,Auxiliar de Serviços Gerais,Segurança,$2070.83,Desligado.,2025-04-26
+719,Tyrus Bretherick,Controlador de Acesso,Administrativo.,$1748.58,Férias,2023-10-28
+720,Katherina Antoniewski,Vigilante,Administrativo.,$2068.58,Ativo,2023-03-01
+721,Tootsie Cuddon,Jardineiro,Administrativo.,$1057.06,Licença Maternidade,2023-02-19
+722,Ganny Coggill,Jardineiro,Segurança,$1942.23,Ativo,2024-07-29
+723,Tyson Bestwerthick,Controlador de Acesso,Segurança,$2377.39,Férias,2021-02-22
+724,Donna Beecroft,Supervisor Operacional,Segurança,$2463.31,Férias,2023-08-12
+725,Barde de Keep,Supervisor Operacional,Segurança,$1642.75,Férias,2025-06-02
+726,Adriena Milmo,Auxiliar de Serviços Gerais,Limpeza,$1298.60,Desligado.,2022-07-31
+727,Briano Peirson,Auxiliar de Serviços Gerais,Administrativo.,$1350.30,Ativo,2024-07-18
+728,Marsh Picopp,Jardineiro,Segurança,$2004.55,Ativo,2023-09-01
+729,Morissa Curror,Supervisor Operacional,Limpeza,$1976.13,Ativo,2022-02-02
+730,Yale Dorcey,Jardineiro,Segurança,$2360.41,Desligado.,2024-07-08
+731,Katharina Verrill,Vigilante,Segurança,$1172.87,Férias,2024-04-29
+732,Gideon Kelinge,Vigilante,Limpeza,$2261.73,Férias,2021-04-09
+733,Merell Hatter,Vigilante,Administrativo.,$1985.48,Ativo,2022-12-15
+734,Tedman Creedland,Vigilante,Limpeza,$2203.60,Desligado.,2021-10-23
+735,Marena Juorio,Jardineiro,Administrativo.,$1606.98,Férias,2022-09-27
+736,Sofie Orridge,Auxiliar de Serviços Gerais,Limpeza,$2220.68,Férias,2025-07-02
+737,Dewitt Hillyatt,Auxiliar de Serviços Gerais,Segurança,$1519.50,Desligado.,2024-09-28
+738,Aile Liverock,Auxiliar de Serviços Gerais,Administrativo.,$1176.85,Ativo,2020-11-17
+739,Jacobo Blinco,Vigilante,Limpeza,$1387.67,Ativo,2025-07-15
+740,Lisle Traves,Vigilante,Administrativo.,$2016.91,Ativo,2022-06-09
+741,Tully Lorraine,Controlador de Acesso,Administrativo.,$2000.16,Desligado.,2020-12-08
+742,Marcellus Tiffin,Auxiliar de Serviços Gerais,Administrativo.,$1673.45,Licença Maternidade,2021-10-14
+743,Stephana Barham,Controlador de Acesso,Limpeza,$2444.48,Ativo,2023-05-01
+744,Marty Cardello,Vigilante,Administrativo.,$1398.84,Desligado.,2025-09-28
+745,Salvatore Bernardt,Auxiliar de Serviços Gerais,Administrativo.,$1538.72,Férias,2021-08-07
+746,Marlena Element,Supervisor Operacional,Limpeza,$2106.87,Ativo,2021-01-20
+747,Ryley Jakubowicz,Vigilante,Administrativo.,$2137.46,Desligado.,2024-05-01
+748,Reamonn Alsop,Supervisor Operacional,Segurança,$1044.69,Ativo,2022-06-27
+749,Winifield Cristea,Controlador de Acesso,Administrativo.,$1269.75,Ativo,2024-07-02
+750,Lanny Duxfield,Jardineiro,Limpeza,$1229.04,Ativo,2024-04-30
+751,Ryann Innett,Controlador de Acesso,Administrativo.,$1219.24,Férias,2023-03-11
+752,Tobit Dominelli,Auxiliar de Serviços Gerais,Segurança,$1605.06,Ativo,2024-11-25
+753,Brittaney Harwick,Jardineiro,Segurança,$1459.71,Ativo,2022-04-16
+754,Davin Mapledoore,Supervisor Operacional,Segurança,$2471.15,Férias,2023-10-13
+755,Luz Freschini,Jardineiro,Administrativo.,$1846.55,Licença Maternidade,2023-11-09
+756,Shandra Amer,Supervisor Operacional,Administrativo.,$1447.30,Ativo,2022-01-24
+757,Jourdain Duerdin,Controlador de Acesso,Administrativo.,$2376.64,Desligado.,2023-03-31
+758,Jayme Dawney,Vigilante,Segurança,$1788.36,Ativo,2023-01-24
+759,Skipper Marczyk,Controlador de Acesso,Segurança,$2098.41,Férias,2022-09-03
+760,Laryssa Schrei,Controlador de Acesso,Segurança,$1953.42,Desligado.,2020-12-23
+761,Devora Conduit,Supervisor Operacional,Limpeza,$1292.57,Férias,2021-04-26
+762,Khalil Mohamed,Supervisor Operacional,Limpeza,$1198.89,Férias,2024-12-21
+763,Brynna Garz,Vigilante,Segurança,$2079.60,Desligado.,2024-12-07
+764,Ambrose Lourenco,Controlador de Acesso,Administrativo.,$1797.88,Ativo,2025-09-23
+765,Ole Lyal,Controlador de Acesso,Segurança,$1450.14,Desligado.,2022-06-06
+766,Jermaine Tattoo,Supervisor Operacional,Administrativo.,$1134.32,Ativo,2023-01-10
+767,Sandra Matchitt,Jardineiro,Administrativo.,$1176.96,Desligado.,2024-08-20
+768,Cullan Mathelin,Supervisor Operacional,Limpeza,$1895.46,Licença Maternidade,2025-09-13
+769,Rae Ion,Auxiliar de Serviços Gerais,Administrativo.,$2131.46,Desligado.,2023-01-01
+770,Joelle Bloschke,Vigilante,Limpeza,$1460.95,Desligado.,2025-10-06
+771,Gusella Van Arsdall,Vigilante,Administrativo.,$1883.81,Férias,2025-08-12
+772,Emelyne Delahunty,Auxiliar de Serviços Gerais,Limpeza,$2494.01,Desligado.,2024-12-08
+773,Curcio Rodmell,Controlador de Acesso,Limpeza,$1845.32,Ativo,2024-02-29
+774,Rich Lemasney,Auxiliar de Serviços Gerais,Limpeza,$1190.65,Licença Maternidade,2023-11-02
+775,Jamil Watkinson,Vigilante,Segurança,$2402.57,Ativo,2024-01-20
+776,Wanids Janse,Vigilante,Limpeza,$1521.50,Férias,2024-10-23
+777,Wesley Nettles,Jardineiro,Limpeza,$2215.86,Licença Maternidade,2025-08-18
+778,Averill Loseke,Vigilante,Segurança,$1689.33,Ativo,2021-05-13
+779,Amargo Littrick,Auxiliar de Serviços Gerais,Segurança,$2128.92,Ativo,2025-04-07
+780,Hillery Rosenwasser,Supervisor Operacional,Limpeza,$1276.09,Desligado.,2025-08-04
+781,Helen-elizabeth Lipmann,Vigilante,Administrativo.,$1472.83,Licença Maternidade,2023-11-22
+782,Howie Leivesley,Supervisor Operacional,Limpeza,$2250.35,Férias,2023-12-25
+783,Shea Petrou,Controlador de Acesso,Segurança,$1769.82,Desligado.,2025-10-27
+784,Raymond Gauden,Vigilante,Administrativo.,$1007.79,Férias,2020-12-01
+785,Aubert Handrok,Jardineiro,Administrativo.,$1317.15,Licença Maternidade,2021-01-11
+786,Alberta Tregido,Jardineiro,Administrativo.,$2038.98,Férias,2021-06-05
+787,Merill Rissom,Jardineiro,Administrativo.,$1861.52,Desligado.,2021-12-07
+788,Jarrett Huggan,Vigilante,Administrativo.,$1986.14,Licença Maternidade,2020-10-30
+789,Nevsa Arrowsmith,Controlador de Acesso,Administrativo.,$1346.18,Desligado.,2022-09-23
+790,Jehanna Le Teve,Auxiliar de Serviços Gerais,Segurança,$1774.28,Férias,2023-02-17
+791,Ingeberg Gilbee,Auxiliar de Serviços Gerais,Segurança,$1736.24,Ativo,2025-05-23
+792,Karleen Dewi,Vigilante,Limpeza,$1658.50,Ativo,2021-11-28
+793,August Forsard,Jardineiro,Administrativo.,$2349.04,Licença Maternidade,2022-09-11
+794,Leisha Oventon,Jardineiro,Segurança,$1912.84,Licença Maternidade,2021-10-25
+795,Liva Stuchbury,Jardineiro,Administrativo.,$1004.04,Desligado.,2022-11-23
+796,Reeva Jann,Controlador de Acesso,Administrativo.,$2365.67,Ativo,2020-11-08
+797,Warden Matteacci,Auxiliar de Serviços Gerais,Segurança,$1393.42,Desligado.,2021-06-05
+798,Gloriana Dyball,Vigilante,Limpeza,$1463.89,Desligado.,2021-05-09
+799,Kally Dormon,Controlador de Acesso,Administrativo.,$2147.55,Licença Maternidade,2022-02-05
+800,Camilla Firmage,Auxiliar de Serviços Gerais,Administrativo.,$1433.64,Ativo,2022-12-13
+801,Giulia Sleightholme,Auxiliar de Serviços Gerais,Segurança,$1799.38,Licença Maternidade,2021-01-07
+802,Alisander Arnaez,Vigilante,Segurança,$2022.65,Licença Maternidade,2022-09-22
+803,Sig Eastcourt,Controlador de Acesso,Administrativo.,$1809.09,Férias,2024-03-02
+804,Mel Zorzi,Controlador de Acesso,Administrativo.,$2126.24,Férias,2021-09-22
+805,Patrice Golds,Controlador de Acesso,Administrativo.,$1555.26,Ativo,2021-01-29
+806,Bondie Shearer,Jardineiro,Segurança,$1446.46,Férias,2021-01-08
+807,Alisa Martineau,Jardineiro,Limpeza,$2130.95,Ativo,2025-01-22
+808,Andra Ebourne,Auxiliar de Serviços Gerais,Limpeza,$2317.18,Ativo,2021-11-26
+809,Hobard Cronin,Jardineiro,Limpeza,$1343.60,Férias,2024-01-19
+810,Romain Spurge,Supervisor Operacional,Administrativo.,$1429.24,Ativo,2022-07-08
+811,Dominic Winks,Controlador de Acesso,Segurança,$2203.76,Ativo,2022-05-04
+812,Kathie Sigert,Controlador de Acesso,Administrativo.,$2453.96,Férias,2023-11-21
+813,Maggi Middlehurst,Vigilante,Administrativo.,$1130.57,Ativo,2023-01-01
+814,Meg Salaman,Jardineiro,Administrativo.,$2319.19,Licença Maternidade,2023-01-09
+815,Rolland Towll,Controlador de Acesso,Administrativo.,$1091.61,Licença Maternidade,2023-12-17
+816,Cyb Martignoni,Supervisor Operacional,Limpeza,$2222.18,Licença Maternidade,2021-12-23
+817,Lucho Cottem,Auxiliar de Serviços Gerais,Segurança,$1961.08,Ativo,2022-01-24
+818,Ardene Afonso,Vigilante,Segurança,$2037.66,Licença Maternidade,2025-09-22
+819,Domeniga Ketch,Jardineiro,Administrativo.,$2068.05,Ativo,2022-07-25
+820,Jody Kaesmakers,Jardineiro,Administrativo.,$1971.88,Desligado.,2022-05-17
+821,Alena Mogra,Auxiliar de Serviços Gerais,Segurança,$1434.44,Ativo,2023-02-06
+822,Patrizius Totman,Vigilante,Limpeza,$2046.24,Ativo,2024-05-30
+823,Kathryn Yve,Controlador de Acesso,Limpeza,$1212.12,Desligado.,2022-09-20
+824,Russ Breton,Controlador de Acesso,Limpeza,$2240.31,Licença Maternidade,2025-09-14
+825,Willetta Ahrend,Auxiliar de Serviços Gerais,Administrativo.,$1413.11,Licença Maternidade,2022-10-02
+826,Kerr Jori,Supervisor Operacional,Limpeza,$1878.11,Férias,2023-05-19
+827,Maryanna Matzkaitis,Controlador de Acesso,Segurança,$1866.66,Férias,2025-02-20
+828,Dotti Dominy,Supervisor Operacional,Segurança,$2396.10,Ativo,2022-04-25
+829,Nichol Carse,Controlador de Acesso,Segurança,$2465.20,Ativo,2025-04-04
+830,Shep Peres,Jardineiro,Administrativo.,$2007.39,Licença Maternidade,2021-07-30
+831,Jayme Gethins,Jardineiro,Administrativo.,$1314.17,Desligado.,2025-03-24
+832,Den Staniforth,Auxiliar de Serviços Gerais,Limpeza,$1417.40,Ativo,2025-07-24
+833,Corilla Bendixen,Controlador de Acesso,Limpeza,$1654.15,Férias,2023-12-29
+834,Gayler Flores,Supervisor Operacional,Administrativo.,$1549.95,Desligado.,2022-10-03
+835,Jaymee Yuranovev,Vigilante,Limpeza,$2203.72,Ativo,2020-12-14
+836,Guinna Keeltagh,Auxiliar de Serviços Gerais,Segurança,$2171.10,Ativo,2023-02-05
+837,Zea Aicheson,Controlador de Acesso,Limpeza,$1608.13,Desligado.,2025-04-12
+838,Brigid Sylett,Vigilante,Limpeza,$1596.64,Férias,2021-10-18
+839,Carrol Gamlen,Jardineiro,Administrativo.,$1710.41,Ativo,2021-12-09
+840,Jorie Canizares,Jardineiro,Segurança,$2146.76,Licença Maternidade,2025-06-12
+841,Corbie Sedgmond,Jardineiro,Administrativo.,$1776.10,Ativo,2023-07-03
+842,Ivy Sket,Jardineiro,Administrativo.,$1293.45,Ativo,2024-05-13
+843,Stanley Boick,Auxiliar de Serviços Gerais,Segurança,$1815.57,Férias,2021-09-20
+844,Dorette Themann,Auxiliar de Serviços Gerais,Segurança,$1909.59,Licença Maternidade,2024-04-27
+845,Jim Michieli,Jardineiro,Segurança,$1429.28,Licença Maternidade,2021-07-06
+846,Russ Hendrichs,Controlador de Acesso,Segurança,$1117.56,Ativo,2025-04-06
+847,Grethel Dodgson,Auxiliar de Serviços Gerais,Administrativo.,$1610.17,Desligado.,2021-06-22
+848,Antoinette Roseveare,Controlador de Acesso,Administrativo.,$1587.69,Desligado.,2025-02-14
+849,Nealy Toffoletto,Jardineiro,Limpeza,$1310.98,Ativo,2024-09-30
+850,Archambault Hammill,Jardineiro,Administrativo.,$2453.24,Desligado.,2024-08-26
+851,Roseanne Dougher,Controlador de Acesso,Administrativo.,$1562.98,Férias,2024-10-19
+852,Michel Halbert,Jardineiro,Administrativo.,$1852.52,Férias,2021-01-16
+853,Mortie Trodden,Auxiliar de Serviços Gerais,Administrativo.,$2141.36,Férias,2023-06-11
+854,Chaddy Jearum,Vigilante,Administrativo.,$2474.44,Desligado.,2022-10-16
+855,Dinny McReath,Vigilante,Administrativo.,$1708.14,Férias,2022-12-06
+856,Ivan Baser,Controlador de Acesso,Limpeza,$2090.70,Ativo,2021-01-14
+857,Ellette Lindro,Jardineiro,Administrativo.,$1365.08,Ativo,2022-07-28
+858,Smitty Fawlo,Supervisor Operacional,Segurança,$1299.08,Ativo,2024-09-08
+859,Chrissy Deverale,Vigilante,Limpeza,$2275.82,Ativo,2025-03-15
+860,Phaedra Caldero,Jardineiro,Administrativo.,$1536.95,Desligado.,2024-07-28
+861,Arte Crossgrove,Vigilante,Segurança,$1387.45,Ativo,2025-09-10
+862,Arabele Aslum,Vigilante,Administrativo.,$1341.42,Desligado.,2025-08-23
+863,Dexter Cashmore,Supervisor Operacional,Limpeza,$1361.35,Licença Maternidade,2022-01-22
+864,Vitia Twitchett,Vigilante,Administrativo.,$1099.31,Desligado.,2020-11-29
+865,Tobe Kingsley,Jardineiro,Limpeza,$1391.34,Ativo,2022-02-25
+866,Ugo Calf,Supervisor Operacional,Limpeza,$2037.92,Férias,2025-09-22
+867,Prudence Lethabridge,Controlador de Acesso,Segurança,$1782.89,Desligado.,2022-08-13
+868,Aguste Brockie,Supervisor Operacional,Administrativo.,$1606.15,Férias,2022-03-21
+869,Kathryn Maystone,Supervisor Operacional,Administrativo.,$2159.98,Licença Maternidade,2023-08-24
+870,Eden Koch,Controlador de Acesso,Segurança,$1147.00,Ativo,2025-04-03
+871,Klemens Casbourne,Vigilante,Limpeza,$1934.72,Desligado.,2023-07-17
+872,Sibyl McAirt,Controlador de Acesso,Administrativo.,$1460.91,Ativo,2021-05-11
+873,Opal Wolfindale,Vigilante,Administrativo.,$2187.93,Desligado.,2022-09-30
+874,Trisha Folini,Supervisor Operacional,Limpeza,$1530.50,Férias,2022-12-19
+875,Zebedee Tewelson,Supervisor Operacional,Administrativo.,$1719.27,Férias,2022-05-09
+876,Ivor Acott,Controlador de Acesso,Segurança,$1866.71,Licença Maternidade,2023-12-16
+877,Monti Coughtrey,Jardineiro,Segurança,$2360.44,Ativo,2022-11-22
+878,Tony Balcock,Jardineiro,Segurança,$2062.93,Férias,2023-08-20
+879,Alphonse Marchant,Controlador de Acesso,Segurança,$2316.73,Desligado.,2025-08-02
+880,Orbadiah Northin,Controlador de Acesso,Administrativo.,$2445.13,Desligado.,2024-11-19
+881,Shirleen Isson,Controlador de Acesso,Segurança,$2015.02,Desligado.,2021-05-12
+882,Klaus Lambert,Jardineiro,Segurança,$1336.93,Licença Maternidade,2024-03-12
+883,Bernardo Isacoff,Vigilante,Administrativo.,$2312.91,Desligado.,2023-07-02
+884,Sybille Bridgen,Supervisor Operacional,Segurança,$1921.64,Férias,2023-01-17
+885,Cord Albers,Jardineiro,Administrativo.,$2395.55,Ativo,2021-11-27
+886,Kinnie Stainton,Vigilante,Limpeza,$2115.56,Ativo,2025-03-19
+887,Dedra Dowdall,Vigilante,Administrativo.,$2367.46,Ativo,2025-06-22
+888,Althea Arnaudon,Supervisor Operacional,Segurança,$1801.65,Licença Maternidade,2023-04-22
+889,Babita Crome,Controlador de Acesso,Segurança,$1937.49,Ativo,2024-09-03
+890,Bax Enderlein,Vigilante,Administrativo.,$1601.74,Desligado.,2022-11-20
+891,Glynis Dodgshon,Supervisor Operacional,Segurança,$2256.31,Ativo,2021-01-19
+892,Phaedra Gainfort,Vigilante,Administrativo.,$1443.44,Licença Maternidade,2021-04-08
+893,Purcell Colthurst,Auxiliar de Serviços Gerais,Administrativo.,$1200.26,Férias,2022-11-01
+894,Dru Peppard,Jardineiro,Segurança,$1920.98,Desligado.,2021-05-20
+895,Druci Johnston,Vigilante,Administrativo.,$2030.50,Desligado.,2024-07-04
+896,Salim Snowball,Supervisor Operacional,Limpeza,$1597.22,Licença Maternidade,2021-11-12
+897,Kassi Clendinning,Vigilante,Administrativo.,$2393.51,Férias,2025-10-19
+898,Page Biagini,Supervisor Operacional,Segurança,$1461.78,Férias,2024-05-08
+899,Hymie Finlason,Jardineiro,Limpeza,$1039.46,Licença Maternidade,2024-06-03
+900,Jayme McKirton,Jardineiro,Administrativo.,$1448.20,Desligado.,2025-06-26
+901,Felecia Riley,Controlador de Acesso,Segurança,$2439.77,Férias,2025-03-18
+902,Orren Enden,Auxiliar de Serviços Gerais,Administrativo.,$2248.48,Licença Maternidade,2022-06-10
+903,Kat Saffell,Supervisor Operacional,Administrativo.,$2005.71,Desligado.,2020-11-16
+904,Kory Renshaw,Auxiliar de Serviços Gerais,Administrativo.,$1916.00,Férias,2024-12-29
+905,Lida Fasse,Controlador de Acesso,Administrativo.,$1566.85,Desligado.,2021-03-24
+906,Edyth Mullett,Vigilante,Administrativo.,$1100.22,Férias,2022-07-20
+907,Nadeen Leglise,Controlador de Acesso,Limpeza,$2414.68,Desligado.,2025-03-04
+908,Nelle Goad,Jardineiro,Segurança,$1095.71,Férias,2022-10-27
+909,Delmore Yearn,Supervisor Operacional,Limpeza,$1848.52,Desligado.,2021-03-11
+910,Min Champney,Auxiliar de Serviços Gerais,Limpeza,$1385.36,Licença Maternidade,2024-09-26
+911,Daniel Finan,Supervisor Operacional,Administrativo.,$1252.25,Férias,2024-08-03
+912,Pace Meatyard,Auxiliar de Serviços Gerais,Limpeza,$1471.78,Férias,2020-11-04
+913,Jacinthe Varne,Controlador de Acesso,Segurança,$2472.83,Férias,2025-05-04
+914,Odelinda Rewcastle,Auxiliar de Serviços Gerais,Administrativo.,$1634.64,Ativo,2021-07-16
+915,Sharon Philipot,Jardineiro,Administrativo.,$1709.61,Licença Maternidade,2020-12-13
+916,Imogene Chaloner,Vigilante,Segurança,$1276.00,Desligado.,2023-01-31
+917,Dexter Wilne,Vigilante,Administrativo.,$1585.04,Ativo,2023-04-12
+918,Norton Usborn,Vigilante,Limpeza,$1408.02,Ativo,2022-03-03
+919,Rebekkah Edmondson,Vigilante,Administrativo.,$1374.76,Desligado.,2022-11-26
+920,Leslie Shardlow,Jardineiro,Limpeza,$1754.08,Desligado.,2024-09-22
+921,Domenico Rotham,Auxiliar de Serviços Gerais,Administrativo.,$2122.13,Desligado.,2021-12-13
+922,Lilian Mathewes,Vigilante,Administrativo.,$1806.90,Ativo,2021-05-13
+923,Leanora Rannald,Auxiliar de Serviços Gerais,Limpeza,$2416.23,Ativo,2023-02-24
+924,Rosalyn Barrand,Jardineiro,Segurança,$1204.97,Licença Maternidade,2021-02-10
+925,Steve Dimitrescu,Jardineiro,Segurança,$1446.93,Licença Maternidade,2023-08-19
+926,Alvan Hardey,Supervisor Operacional,Limpeza,$2142.38,Licença Maternidade,2022-06-22
+927,Carolyn McAster,Jardineiro,Segurança,$1181.02,Ativo,2024-02-12
+928,Maximo McKerrow,Supervisor Operacional,Segurança,$1928.28,Férias,2021-10-04
+929,Emmey Gadson,Jardineiro,Administrativo.,$1476.12,Licença Maternidade,2023-12-07
+930,Mohandis Ferrers,Supervisor Operacional,Limpeza,$2050.16,Licença Maternidade,2021-04-12
+931,Terencio Ingliss,Vigilante,Limpeza,$1787.19,Ativo,2022-10-10
+932,Lethia Boichat,Auxiliar de Serviços Gerais,Limpeza,$1617.44,Ativo,2022-05-22
+933,Issy Anstead,Controlador de Acesso,Limpeza,$1397.15,Ativo,2024-01-06
+934,Lucius Stanning,Supervisor Operacional,Segurança,$1305.18,Desligado.,2021-03-08
+935,Olive Stanyland,Jardineiro,Administrativo.,$1981.70,Licença Maternidade,2021-06-04
+936,Moore Tardiff,Auxiliar de Serviços Gerais,Limpeza,$2178.92,Férias,2022-09-09
+937,Carline Tawton,Auxiliar de Serviços Gerais,Administrativo.,$2358.36,Férias,2020-12-03
+938,Denver MacComiskey,Jardineiro,Administrativo.,$2037.55,Licença Maternidade,2022-05-12
+939,Maisey Vondra,Vigilante,Limpeza,$1070.90,Desligado.,2021-08-23
+940,Gennie Scrange,Auxiliar de Serviços Gerais,Segurança,$1431.50,Férias,2021-08-09
+941,Lana Roelofsen,Controlador de Acesso,Segurança,$2169.49,Licença Maternidade,2024-04-13
+942,Clare Alwin,Vigilante,Administrativo.,$2021.34,Desligado.,2022-06-22
+943,Sianna Brum,Supervisor Operacional,Segurança,$1339.93,Desligado.,2022-08-21
+944,Brook Sidebottom,Vigilante,Limpeza,$1148.32,Desligado.,2025-06-21
+945,Becky Grimsditch,Auxiliar de Serviços Gerais,Administrativo.,$2476.98,Férias,2021-09-09
+946,Maryanne Skeldon,Controlador de Acesso,Segurança,$1582.17,Licença Maternidade,2021-09-25
+947,Leonard Casier,Vigilante,Administrativo.,$2374.23,Licença Maternidade,2025-05-23
+948,Jarib Holme,Jardineiro,Administrativo.,$2462.29,Desligado.,2023-09-09
+949,Durante Holme,Auxiliar de Serviços Gerais,Segurança,$2264.42,Licença Maternidade,2024-08-12
+950,Cameron Boissieux,Auxiliar de Serviços Gerais,Administrativo.,$1501.92,Desligado.,2023-11-01
+951,Marga Bax,Jardineiro,Limpeza,$1711.87,Ativo,2022-02-21
+952,Kassi Neave,Controlador de Acesso,Limpeza,$2318.89,Ativo,2020-12-20
+953,Garrek Manclark,Jardineiro,Segurança,$1092.84,Desligado.,2025-06-12
+954,Rutger Scottini,Vigilante,Administrativo.,$1846.32,Desligado.,2022-08-13
+955,Goldarina Leithgoe,Supervisor Operacional,Administrativo.,$1753.55,Desligado.,2021-08-10
+956,Maje Huddy,Controlador de Acesso,Segurança,$1176.48,Ativo,2022-03-21
+957,Claudius Preece,Supervisor Operacional,Limpeza,$1291.26,Licença Maternidade,2022-10-20
+958,Norman Lezemere,Supervisor Operacional,Administrativo.,$1184.26,Desligado.,2024-08-04
+959,Lev MacLennan,Controlador de Acesso,Segurança,$1047.01,Desligado.,2022-04-08
+960,Sibley Stainbridge,Supervisor Operacional,Segurança,$1308.84,Férias,2023-04-13
+961,Ingamar Wittman,Supervisor Operacional,Limpeza,$1011.95,Ativo,2020-12-02
+962,Ludovico Heiner,Jardineiro,Segurança,$2131.84,Desligado.,2022-02-13
+963,Gordon Pursehouse,Vigilante,Limpeza,$1299.89,Férias,2025-09-04
+964,Stanton Vickress,Vigilante,Administrativo.,$2383.29,Ativo,2021-06-11
+965,Giacinta Paley,Supervisor Operacional,Segurança,$1946.63,Licença Maternidade,2025-10-06
+966,Fawne Gowan,Jardineiro,Segurança,$2114.36,Ativo,2022-09-19
+967,Leland Chaikovski,Vigilante,Administrativo.,$2121.25,Desligado.,2025-07-19
+968,Ollie Pickrill,Vigilante,Administrativo.,$1367.05,Ativo,2024-12-12
+969,Cale OIlier,Vigilante,Limpeza,$1057.49,Férias,2022-09-13
+970,Elna Saundercock,Auxiliar de Serviços Gerais,Segurança,$2374.38,Ativo,2025-03-23
+971,Philippe Vallentin,Controlador de Acesso,Administrativo.,$2443.38,Licença Maternidade,2025-08-05
+972,Gwenni Grestye,Jardineiro,Segurança,$1738.50,Férias,2021-08-06
+973,Ladonna Mellon,Jardineiro,Administrativo.,$1296.35,Ativo,2023-02-24
+974,Vivia Fritschel,Vigilante,Limpeza,$1634.58,Licença Maternidade,2025-10-21
+975,Kassi Wallentin,Auxiliar de Serviços Gerais,Administrativo.,$1106.39,Férias,2024-06-20
+976,Marcelle Clemmens,Supervisor Operacional,Administrativo.,$1421.87,Desligado.,2024-10-15
+977,Lancelot Feakins,Controlador de Acesso,Segurança,$1644.54,Férias,2023-09-25
+978,Panchito Wiltshear,Controlador de Acesso,Limpeza,$1121.19,Férias,2023-01-16
+979,Georgeta Pluthero,Jardineiro,Segurança,$1567.26,Desligado.,2024-12-19
+980,Tamar Haycox,Supervisor Operacional,Limpeza,$2317.41,Licença Maternidade,2025-08-23
+981,Angele Henriet,Vigilante,Limpeza,$1673.35,Licença Maternidade,2023-01-09
+982,Frank Greatbach,Supervisor Operacional,Administrativo.,$1957.25,Ativo,2021-12-27
+983,Consuela Starbeck,Controlador de Acesso,Administrativo.,$1496.87,Ativo,2025-07-27
+984,Amalea O'Rafferty,Auxiliar de Serviços Gerais,Administrativo.,$2440.57,Ativo,2024-05-28
+985,Hollyanne Tunesi,Auxiliar de Serviços Gerais,Segurança,$1908.94,Férias,2021-03-09
+986,Zachariah Lynagh,Jardineiro,Limpeza,$1938.98,Desligado.,2021-02-15
+987,Fedora Semple,Auxiliar de Serviços Gerais,Administrativo.,$1207.37,Férias,2024-12-10
+988,Mirella Yakubovich,Supervisor Operacional,Segurança,$2425.50,Licença Maternidade,2025-09-19
+989,Cookie Carloni,Controlador de Acesso,Segurança,$2020.34,Férias,2025-06-15
+990,Aldridge Merrisson,Supervisor Operacional,Limpeza,$1309.93,Ativo,2024-10-01
+991,Nicola Haighton,Supervisor Operacional,Administrativo.,$1533.95,Ativo,2022-10-07
+992,Catherine Grimme,Controlador de Acesso,Limpeza,$1803.32,Licença Maternidade,2024-10-28
+993,Lianna Broom,Jardineiro,Administrativo.,$1506.04,Ativo,2025-09-27
+994,Celeste Powlesland,Auxiliar de Serviços Gerais,Limpeza,$1677.80,Ativo,2025-01-17
+995,Hughie Peachey,Supervisor Operacional,Administrativo.,$1973.99,Licença Maternidade,2024-11-26
+996,Sioux Dempsey,Controlador de Acesso,Limpeza,$2207.61,Ativo,2025-10-25
+997,Costanza Stuckley,Supervisor Operacional,Limpeza,$1870.95,Desligado.,2024-09-15
+998,Desi Plante,Controlador de Acesso,Administrativo.,$1255.96,Ativo,2023-08-02
+999,Hetty Capner,Supervisor Operacional,Limpeza,$1023.37,Licença Maternidade,2021-10-25
+1000,Dolores Gardner,Jardineiro,Administrativo.,$1836.77,Licença Maternidade,2023-11-08
