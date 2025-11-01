@@ -1,4 +1,4 @@
-Guia Definitivo do Analista: Projeto de BI de Facilities
+Projeto de BI de Facilities
 
 Este repositório documenta o processo completo de criação de um Data Warehouse (DW) protótipo e um Dashboard de Business Intelligence (BI) para a área de Facilities. O projeto aborda desde a extração de dados brutos (CSV) até a modelagem de métricas de negócio e visualização no Metabase.
 
